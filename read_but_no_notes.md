@@ -5,3 +5,6 @@
 - Faster RCNN
 - Mask RCNN
 - FPN
+
+- GroupNorm
+- MegDet (SyncBN)

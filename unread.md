@@ -6,16 +6,36 @@
 
 - Jan 2019 SotA Instance Segmentation: [Hybrid Task Cascade for Instance Segmentation](https://arxiv.org/abs/1901.07518)
 - FAIR, Object Detection: [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002)
-- Best new backbone? Resnet+ accuracy with fewer params: [FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction](https://arxiv.org/abs/1901.03495)
+- Early 2019. Best new backbone? Resnet+ accuracy with fewer params: [FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction](https://arxiv.org/abs/1901.03495)
 - [Cascade R-CNN: Delving into High Quality Object Detection](https://arxiv.org/abs/1712.00726)
+- SSD 
+- YOLO
+- Attention is all you need (Transformer)
+- You may not need attention
+- AlphaStar
+- Speed/accuracy tradeoffs in object detection
 
 ### Med
 
-- ph
+- PlanNet
+- BERT
+- GPT-2
+- Transformer XL
+- NASNet
 
 ### Low
 
-- ph
+- DetNet (object detection backbone. Mid 2018)
+- ResNeXt
+- LASER
+- Don't decay LR, increase BS
+- Squeeze-and-excite
+- MobileNet
+- UNet
+- Cyclic learning rates
+- MVCNN
+- Measuring effect of data parallelism
+
 
 ### Unprioritized
 
