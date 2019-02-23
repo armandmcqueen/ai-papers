@@ -18,10 +18,14 @@
 ### Med
 
 - PlanNet
-- BERT
+- Oct 2018 SotA Google LM: [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
+- GPT, OpenAI LM, pre-BERT SotA: [Improving Language Understanding by Generative Pre-Training](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
 - GPT-2
 - Transformer XL
 - NASNet
+- Training deep neural networks with 8-bit floating point numbers
+- NeurIPs 2018: [LAG: Lazily Aggregated Gradient for Communication-Efficient Distributed Learning](https://arxiv.org/abs/1805.09965)
+- NeurIPs 2018: [GradiVeQ: Vector Quantization for Bandwidth-Efficient Gradient Aggregation in Distributed CNN Training](https://arxiv.org/abs/1811.03617)
 
 ### Low
 
