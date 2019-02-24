@@ -5,6 +5,7 @@
 - [Guided Anchoring](notes/guided_anchoring.md)
 - [Cascade R-CNN](notes/cascade_rcnn.md)
 - [Hybrid Task Cascade](notes/htc.md)
+- [RetinaNet/Focal Loss](notes/retinanet.md)
 
 ## Read but need to add notes
 
@@ -34,8 +35,7 @@
 
 - [[Transformer] Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 - [Transformer-XL: Attentive Language Models Beyond A Fixed-Length Context](https://arxiv.org/pdf/1901.02860.pdf). Jan 2019 SotA. Pre-GPT-2. CMU + Google Brain
-- [[RetinaNet] Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002). FAIR, Object Detection:
-- [Light-Head R-CNN: In Defense of Two-Stage Object Detector](https://arxiv.org/abs/1711.07264). Nov 2017. High performance, high accuracy two-stage object detection. 
+- [Light-Head R-CNN: In Defense of Two-Stage Object Detector](https://arxiv.org/abs/1711.07264). Nov 2017. Megvii. High performance, high accuracy two-stage object detection. 
 - [FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction](https://arxiv.org/abs/1901.03495). Jan 2019. Best new backbone? Resnet+ accuracy with fewer params. Part of SotA entry COCO Object Detection 2018
 - [[ODENet] Neural Ordinary Differential Equations](https://arxiv.org/pdf/1806.07366.pdf). NeurIPS 2018 best paper, time-series.
 - [AlphaStar](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/). DeepMind. Starcraft II RL agent that reaches ~95% percentile of human players.
