@@ -19,16 +19,17 @@
 ### Med
 
 - PlanNet
-- Oct 2018 SotA Google LM: [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
-- GPT, OpenAI LM, pre-BERT SotA: [Improving Language Understanding by Generative Pre-Training](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
-- GPT-2
-- Transformer XL
+- [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf). Google LM, Oct 2018 SotA (pre MT-DNN which uses BERT to set new SotA) 
+- GPT: [Improving Language Understanding by Generative Pre-Training](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf).  OpenAI LM, June 2018 SotA (pre BERT). Minimal benchmark overlap with ELMo
+- GPT-2, Feb 2019 SotA, Multi-task NLP: [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)
+- MT-DNN: [Multi-Task Deep Neural Networks for Natural Language Understanding](https://arxiv.org/pdf/1901.11504.pdf). , Microsoft. BERT + Multi-task model. Feb 2019 SotA, Multi-task NLP (comparison with GPT-2 unknown) 
+- [TRANSFORMER-XL: ATTENTIVE LANGUAGE MODELS BEYOND A FIXED-LENGTH CONTEXT](https://arxiv.org/pdf/1901.02860.pdf). Jan 2019 SotA. Pre-GPT-2. CMU + Google Brain
 - NASNet
 - Training deep neural networks with 8-bit floating point numbers
-- NeurIPs 2018: [LAG: Lazily Aggregated Gradient for Communication-Efficient Distributed Learning](https://arxiv.org/abs/1805.09965)
-- NeurIPs 2018: [GradiVeQ: Vector Quantization for Bandwidth-Efficient Gradient Aggregation in Distributed CNN Training](https://arxiv.org/abs/1811.03617)
-- FAIR, NeurIPs 2018: [Stochastic Gradient Push for Distributed Deep Learning](https://research.fb.com/publications/stochastic-gradient-push-for-distributed-deep-learning/)
-- OpenAI: [Large-Scale Study of Curiosity-Driven Learning](https://pathak22.github.io/large-scale-curiosity/resources/largeScaleCuriosity2018.pdf)
+- [LAG: Lazily Aggregated Gradient for Communication-Efficient Distributed Learning](https://arxiv.org/abs/1805.09965). NeurIPs 2018
+- [GradiVeQ: Vector Quantization for Bandwidth-Efficient Gradient Aggregation in Distributed CNN Training](https://arxiv.org/abs/1811.03617). NeurIPs 2018
+- [Stochastic Gradient Push for Distributed Deep Learning](https://research.fb.com/publications/stochastic-gradient-push-for-distributed-deep-learning/). FAIR, NeurIPs 2018
+- [Large-Scale Study of Curiosity-Driven Learning](https://pathak22.github.io/large-scale-curiosity/resources/largeScaleCuriosity2018.pdf). OpenAI
 
 ### Low
 
@@ -60,7 +61,10 @@
 - Google Brain: [Revisiting Self-Supervised Visual Representation Learning](https://arxiv.org/pdf/1901.09005.pdf)
 - [Self-Driving Cars: A Survey](https://arxiv.org/pdf/1901.04407.pdf)
 - NeurIPS 2018 best paper [Non-delusional Q-learning and Value Iteration](https://papers.nips.cc/paper/8200-non-delusional-q-learning-and-value-iteration.pdf)
-- Google Brain, meta-learning, mid 2018: [Learning Unsupervised Learning Rules](https://arxiv.org/pdf/1804.00222.pdf)
+- [Learning Unsupervised Learning Rules](https://arxiv.org/pdf/1804.00222.pdf). Google Brain, meta-learning, mid 2018
 - ICLR 2018 Best Paper: [SPHERICAL CNNS](https://openreview.net/pdf?id=Hkbd5xZRb)
 - ICLR 2018 Best Paper: [CONTINUOUS ADAPTATION VIA META-LEARNING IN NONSTATIONARY AND COMPETITIVE ENVIRONMENTS](https://openreview.net/pdf?id=Sk2u1g-0-)
 - ICLR 2018 Best Paper: [On the Convergence of Adam and Beyond ](https://openreview.net/forum?id=ryQu7f-RZ)
+- [GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding](https://www.nyu.edu/projects/bowman/glue.pdf)
+- DecaNLP bennchmark: [The Natural Language Decathlon: Multitask Learning as Question Answering](https://arxiv.org/abs/1806.08730)
+- ELMo: [Deep contextualized word representations](https://arxiv.org/pdf/1802.05365.pdf). Mar 2018 SotA (pre BERT). Minimal benchmark overlap with GPT.
