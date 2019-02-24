@@ -72,3 +72,4 @@
 - R-FCN (object detection)(?)
 - MS-CNN  (multi-scale object detection, FPN relative)(?)
 - AttractioNet (multi-stage procedure for generating accuracte objdet proposals)(?)
+- [A Comprehensive Survey of Deep Learning for Image Captioning](https://arxiv.org/pdf/1810.04020.pdf)
