@@ -1,11 +1,11 @@
 # AI Papers and Notes
 
-## Read Papers with Notes
+## Paper Notes
 
-- Guided Anchoring
-- Cascade R-CNN
+- [Guided Anchoring](notes/guided_anchoring.md)
+- [Cascade R-CNN](notes/cascade_rcnn.md)
 
-## Read But No Notes
+## Read but need to add notes
 
 
 - ResNet
@@ -32,6 +32,8 @@
 - Speed/accuracy tradeoffs in object detection
 - SSD 
 - YOLO
+- [Deformable Convolutional Networks](https://arxiv.org/abs/1703.06211). June 2017
+- [Deformable ConvNets v2: More Deformable, Better Results](https://arxiv.org/abs/1811.11168). Nov 2018
 
 #### Med Priority
 
