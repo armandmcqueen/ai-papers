@@ -4,7 +4,7 @@
 
 ### High
 
-- [Hybrid Task Cascade for Instance Segmentation](https://arxiv.org/abs/1901.07518). Jan 2019. SotA Instance Segmentation MSCOCO.
+- [[HTC] Hybrid Task Cascade for Instance Segmentation](https://arxiv.org/abs/1901.07518). Jan 2019. SotA Instance Segmentation MSCOCO.
 - [[Transformer] Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 - [Transformer-XL: Attentive Language Models Beyond A Fixed-Length Context](https://arxiv.org/pdf/1901.02860.pdf). Jan 2019 SotA. Pre-GPT-2. CMU + Google Brain
 - [[RetinaNet] Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002). FAIR, Object Detection: 
@@ -71,4 +71,5 @@
 - R-FCN (object detection)(?)
 - MS-CNN  (multi-scale object detection, FPN relative)(?)
 - AttractioNet (multi-stage procedure for generating accuracte objdet proposals)(?)
+- CRAFT, related to AttractioNet(?)
 - [A Comprehensive Survey of Deep Learning for Image Captioning](https://arxiv.org/pdf/1810.04020.pdf)
