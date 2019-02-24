@@ -33,9 +33,9 @@
 
 #### High Priority
 
+- [Light-Head R-CNN: In Defense of Two-Stage Object Detector](https://arxiv.org/abs/1711.07264). Nov 2017. Megvii. High performance, high accuracy two-stage object detection. 
 - [[Transformer] Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 - [Transformer-XL: Attentive Language Models Beyond A Fixed-Length Context](https://arxiv.org/pdf/1901.02860.pdf). Jan 2019 SotA. Pre-GPT-2. CMU + Google Brain
-- [Light-Head R-CNN: In Defense of Two-Stage Object Detector](https://arxiv.org/abs/1711.07264). Nov 2017. Megvii. High performance, high accuracy two-stage object detection. 
 - [FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction](https://arxiv.org/abs/1901.03495). Jan 2019. Best new backbone? Resnet+ accuracy with fewer params. Part of SotA entry COCO Object Detection 2018
 - [[ODENet] Neural Ordinary Differential Equations](https://arxiv.org/pdf/1806.07366.pdf). NeurIPS 2018 best paper, time-series.
 - [AlphaStar](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/). DeepMind. Starcraft II RL agent that reaches ~95% percentile of human players.
@@ -45,9 +45,11 @@
 - [YOLOv3: An Incremental Improvement](https://arxiv.org/abs/1804.02767) April 2018
 - [Deformable Convolutional Networks](https://arxiv.org/abs/1703.06211). June 2017
 - [Deformable ConvNets v2: More Deformable, Better Results](https://arxiv.org/abs/1811.11168). Nov 2018
-- [Human-level performance in first-person multiplayer games with population-based deep reinforcement learning](https://arxiv.org/abs/1807.01281) ([blog](https://deepmind.com/blog/capture-the-flag/)). Jul 2018. Have agents play each other
+- [R-FCN: Object Detection via Region-based Fully Convolutional Networks](https://arxiv.org/abs/1605.06409). May 2016. Object detection
 
-#### Med Priority
+
+#### Medium Priority
+
 
 - [[PlanNet] Learning Latent Dynamics for Planning from Pixels](https://arxiv.org/abs/1811.04551) ([blog](https://ai.googleblog.com/2019/02/introducing-planet-deep-planning.html)). Google. A Deep Planning Network for Reinforcement Learning
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf). Google LM, Oct 2018 SotA (pre MT-DNN which uses BERT to set new SotA) 
@@ -61,6 +63,8 @@
 - [Stochastic Gradient Push for Distributed Deep Learning](https://research.fb.com/publications/stochastic-gradient-push-for-distributed-deep-learning/). FAIR, NeurIPs 2018
 - [Large-Scale Study of Curiosity-Driven Learning](https://pathak22.github.io/large-scale-curiosity/resources/largeScaleCuriosity2018.pdf). OpenAI
 - [You May Not Need Attention](https://arxiv.org/abs/1810.13409)
+- [Human-level performance in first-person multiplayer games with population-based deep reinforcement learning](https://arxiv.org/abs/1807.01281) ([blog](https://deepmind.com/blog/capture-the-flag/)). Jul 2018. Have agents play each other
+
 
 #### Low Priority
 
@@ -91,14 +95,13 @@
 - [Self-Driving Cars: A Survey](https://arxiv.org/pdf/1901.04407.pdf)
 - [Non-delusional Q-learning and Value Iteration](https://papers.nips.cc/paper/8200-non-delusional-q-learning-and-value-iteration.pdf). NeurIPS 2018 best paper
 - [Learning Unsupervised Learning Rules](https://arxiv.org/pdf/1804.00222.pdf). Google Brain, meta-learning, mid 2018
-- [SPHERICAL CNNS](https://openreview.net/pdf?id=Hkbd5xZRb). ICLR 2018 Best Paper
-- [CONTINUOUS ADAPTATION VIA META-LEARNING IN NONSTATIONARY AND COMPETITIVE ENVIRONMENTS](https://openreview.net/pdf?id=Sk2u1g-0-). ICLR 2018 Best Paper
+- [Spherical CNNs](https://openreview.net/pdf?id=Hkbd5xZRb). ICLR 2018 Best Paper
+- [Continuous Adaptation Via Meta-Learing In Nonstationary And Competitive Environments](https://openreview.net/pdf?id=Sk2u1g-0-). ICLR 2018 Best Paper
 - [On the Convergence of Adam and Beyond ](https://openreview.net/forum?id=ryQu7f-RZ). ICLR 2018 Best Paper
 - [GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding](https://www.nyu.edu/projects/bowman/glue.pdf)
 - [[DecaNLP] The Natural Language Decathlon: Multitask Learning as Question Answering](https://arxiv.org/abs/1806.08730). Benchmark task
 - [[ELMo] Deep contextualized word representations](https://arxiv.org/pdf/1802.05365.pdf). Mar 2018 SotA (pre BERT). Minimal benchmark overlap with GPT.
 - [Universal Transformers](https://arxiv.org/abs/1807.03819). July 2018
-- [R-FCN: Object Detection via Region-based Fully Convolutional Networks](https://arxiv.org/abs/1605.06409). May 2016. Object detection
 - [[MS-CNN] A Unified Multi-scale Deep Convolutional Neural Network for Fast Object Detection](https://arxiv.org/abs/1607.07155). Multi-scale object detection. FPN related?
 - [[AttractioNet] Attend Refine Repeat: Active Box Proposal Generation via In-Out Localization](https://arxiv.org/abs/1606.04446). Multi-stage procedure for generating accurate object proposals. Attend-and-refine module to update bounding box locations iteratively. [References from HTC paper literature review]  
 - [CRAFT Objects from Images](https://arxiv.org/abs/1604.03239). Incorporates cascade structure into RPN. [References from HTC paper literature review]
