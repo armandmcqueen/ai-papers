@@ -34,3 +34,6 @@
 
 
 - "**IoU Thresholds**: A preliminary Cascade R-CNN was trained using the same IoU threshold `u` = 0.5 for all heads. In this case, the stages differ only in the hypotheses they receive [although each stage shifts the IoU distribution fed to the next stage as seen in Figure 4]. [...]. The first row of Table 3 shows that the cascade improves on the baseline detector. [...] The second row shows that, by increasing the stage threshold u, the detector can be made more selective against close false positives and specialized for more precise hypotheses, leading to additional gains."
+
+
+![Results and Comparison with other SotA models](images/cascade_rcnn_results.png)
