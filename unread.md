@@ -68,3 +68,7 @@
 - [GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding](https://www.nyu.edu/projects/bowman/glue.pdf)
 - DecaNLP bennchmark: [The Natural Language Decathlon: Multitask Learning as Question Answering](https://arxiv.org/abs/1806.08730)
 - ELMo: [Deep contextualized word representations](https://arxiv.org/pdf/1802.05365.pdf). Mar 2018 SotA (pre BERT). Minimal benchmark overlap with GPT.
+- Universal Transformer
+- R-FCN (object detection)(?)
+- MS-CNN  (multi-scale object detection, FPN relative)(?)
+- AttractioNet (multi-stage procedure for generating accuracte objdet proposals)(?)
