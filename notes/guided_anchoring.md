@@ -17,13 +17,18 @@
 - "With Guided Anchoring, we achieve 9.1% higher recall on MS COCO with 90% fewer anchors than the RPN baseline"
 
 
+- "As illustrated in Figure 4, regions like sky and ocean are excluded, while anchors concentrate densely around persons and surfboards.""
+
+
 - "We also adopt Guided Anchoring in Fast R-CNN, Faster R-CNN and RetinaNet, respectively improving the detection mAP by 2.2%, 2.7% and 1.2%."
 
 
 - "A fine-tuning schedule using GA-RPN proposals [...] can improve the performance of any trained models, e.g., it improves a fully converged Faster R-CNN model from 37.4% to 39.6%, in only 3 epochs."
 
 
-- "A uniform anchoring scheme [...] is not necessarily the optimal way to prepare the anchors. This scheme can lead to two difficulties: (1) A neat set of anchors of fixed aspect ratios has to be predefined for different problems. A wrong design may hamper the speed and accuracy of the detector. (2) To maintain a sufficiently high recall for proposals, a large number of anchors are needed, while most of them correspond to false candidates that are irrelevant to the object of interests. Meanwhile, large number of anchors can lead to significant computational cost especially when the pipeline involves a heavy classifier in the proposal stage"
+- "A uniform anchoring scheme [...] is not necessarily the optimal way to prepare the anchors. This scheme can lead to two difficulties: 
+    - (1) A neat set of anchors of fixed aspect ratios has to be predefined for different problems. A wrong design may hamper the speed and accuracy of the detector. 
+    - (2) To maintain a sufficiently high recall for proposals, a large number of anchors are needed, while most of them correspond to false candidates that are irrelevant to the object of interests. Meanwhile, large number of anchors can lead to significant computational cost especially when the pipeline involves a heavy classifier in the proposal stage"
 
 
 - "By predicting the scales and aspect ratios instead of fixing them based on a predefined list, our scheme handles tall or wide objects more effectively"
@@ -35,20 +40,11 @@
 - "This [anchor generation module] is a network comprised of two branches for location and shape prediction [...]. On top of [a feature map], the location prediction branch yields a probability map that indicates the possible locations of the objects, while the shape prediction branch predicts location-dependent shapes. [...] Generate a set of anchors by choosing the locations whose predicted probabilities are above a certain threshold and the most probable shape at each of the chosen locations."
 
 
-- "In our formulation, the probability map [...] is predicted using a sub-network [that] applies a 1 × 1 convolution to the base feature map FI to obtain a map of objectness scores," 
-
-- "While a deeper sub-network can make more accurate predictions [for the probability map], we found empirically that a convolution layer followed by a sigmoid transform strikes a good balance between efficiency and accuracy."
-
-
-- "In our design, we use a sub-network for shape prediction, which comprises a 1 × 1 convolutional layer that yields a two-channel map that contains the values of dw and dh"
-
-
-- "As illustrated in Figure 4, regions like sky and ocean are excluded, while anchors concentrate densely around persons and surfboards.""
+- "[On using 1x1 conv layer for probability map branch] While a deeper sub-network can make more accurate predictions [for the probability map], we found empirically that a convolution layer followed by a sigmoid transform strikes a good balance between efficiency and accuracy."
 
 
 - "As the anchor shapes can vary, the features at different locations should capture the visual content within different ranges. With this taken into consideration, we further introduce a feature adaptation module, which adapts the feature according to the anchor shape."
 
-- "The anchor-guided feature adaptation component [...] will transform the features at individual location based on the underlying anchor shapes [...]. For such a location-dependent transformation, we adopt a 3 × 3 deformable convolutional layer [...]."
 
 
 ### Diagrams
