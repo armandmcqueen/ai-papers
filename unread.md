@@ -4,32 +4,32 @@
 
 ### High
 
-- NeurIPS 2018 best paper, time-series: [Neural Ordinary Differential Equations](https://arxiv.org/pdf/1806.07366.pdf)
-- Jan 2019 SotA Instance Segmentation: [Hybrid Task Cascade for Instance Segmentation](https://arxiv.org/abs/1901.07518)
-- FAIR, Object Detection: [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002)
-- Early 2019. Best new backbone? Resnet+ accuracy with fewer params: [FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction](https://arxiv.org/abs/1901.03495)
 - [Cascade R-CNN: Delving into High Quality Object Detection](https://arxiv.org/abs/1712.00726)
-- SSD 
-- YOLO
-- Attention is all you need (Transformer)
-- You may not need attention
+- [Hybrid Task Cascade for Instance Segmentation](https://arxiv.org/abs/1901.07518). Jan 2019. SotA Instance Segmentation MSCOCO.
+- [[Transformer] Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+- [Transformer-XL: Attentive Language Models Beyond A Fixed-Length Context](https://arxiv.org/pdf/1901.02860.pdf). Jan 2019 SotA. Pre-GPT-2. CMU + Google Brain
+- [[RetinaNet] Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002). FAIR, Object Detection: 
+- [FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction](https://arxiv.org/abs/1901.03495). Jan 2019. Best new backbone? Resnet+ accuracy with fewer params. Part of SotA entry COCO Object Detection 2018
+- [[ODENet] Neural Ordinary Differential Equations](https://arxiv.org/pdf/1806.07366.pdf). NeurIPS 2018 best paper, time-series.
 - AlphaStar
 - Speed/accuracy tradeoffs in object detection
+- SSD 
+- YOLO
 
 ### Med
 
 - PlanNet
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf). Google LM, Oct 2018 SotA (pre MT-DNN which uses BERT to set new SotA) 
-- GPT: [Improving Language Understanding by Generative Pre-Training](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf).  OpenAI LM, June 2018 SotA (pre BERT). Minimal benchmark overlap with ELMo
-- GPT-2, Feb 2019 SotA, Multi-task NLP: [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)
-- MT-DNN: [Multi-Task Deep Neural Networks for Natural Language Understanding](https://arxiv.org/pdf/1901.11504.pdf). , Microsoft. BERT + Multi-task model. Feb 2019 SotA, Multi-task NLP (comparison with GPT-2 unknown) 
-- [TRANSFORMER-XL: ATTENTIVE LANGUAGE MODELS BEYOND A FIXED-LENGTH CONTEXT](https://arxiv.org/pdf/1901.02860.pdf). Jan 2019 SotA. Pre-GPT-2. CMU + Google Brain
+- [[GPT] Improving Language Understanding by Generative Pre-Training](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf).  OpenAI LM, June 2018 SotA (pre BERT). Minimal benchmark overlap with ELMo
+- [[GPT-2] Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf). Feb 2019 SotA, Multi-task NLP
+- [[MT-DNN] Multi-Task Deep Neural Networks for Natural Language Understanding](https://arxiv.org/pdf/1901.11504.pdf). , Microsoft. BERT + Multi-task model. Feb 2019 SotA, Multi-task NLP (comparison with GPT-2 unknown) 
 - NASNet
 - Training deep neural networks with 8-bit floating point numbers
 - [LAG: Lazily Aggregated Gradient for Communication-Efficient Distributed Learning](https://arxiv.org/abs/1805.09965). NeurIPs 2018
 - [GradiVeQ: Vector Quantization for Bandwidth-Efficient Gradient Aggregation in Distributed CNN Training](https://arxiv.org/abs/1811.03617). NeurIPs 2018
 - [Stochastic Gradient Push for Distributed Deep Learning](https://research.fb.com/publications/stochastic-gradient-push-for-distributed-deep-learning/). FAIR, NeurIPs 2018
 - [Large-Scale Study of Curiosity-Driven Learning](https://pathak22.github.io/large-scale-curiosity/resources/largeScaleCuriosity2018.pdf). OpenAI
+- [You May Not Need Attention](https://arxiv.org/abs/1810.13409)
 
 ### Low
 
