@@ -1,8 +1,26 @@
-# Unread Papers
+# AI Papers and Notes
 
-## Ordered by priority
+## Read Papers with Notes
 
-### High
+- Guided Anchoring
+- Cascade R-CNN
+
+## Read But No Notes
+
+
+- ResNet
+- Fast RCNN
+- Faster RCNN
+- Mask RCNN
+- FPN
+- GroupNorm
+- MegDet (SyncBN)
+- [TF-Replicator: Distributed Machine Learning For Researchers](https://arxiv.org/pdf/1902.00465.pdf)
+- [Training Deep Nets with Sublinear Memory Cost](https://arxiv.org/abs/1604.06174****)
+
+## Unread Papers
+
+#### High Priority
 
 - [[HTC] Hybrid Task Cascade for Instance Segmentation](https://arxiv.org/abs/1901.07518). Jan 2019. SotA Instance Segmentation MSCOCO.
 - [[Transformer] Attention Is All You Need](https://arxiv.org/abs/1706.03762)
@@ -15,7 +33,7 @@
 - SSD 
 - YOLO
 
-### Med
+#### Med Priority
 
 - PlanNet
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf). Google LM, Oct 2018 SotA (pre MT-DNN which uses BERT to set new SotA) 
@@ -30,7 +48,7 @@
 - [Large-Scale Study of Curiosity-Driven Learning](https://pathak22.github.io/large-scale-curiosity/resources/largeScaleCuriosity2018.pdf). OpenAI
 - [You May Not Need Attention](https://arxiv.org/abs/1810.13409)
 
-### Low
+#### Low Priority
 
 - DetNet (object detection backbone. Mid 2018)
 - ResNeXt
@@ -45,7 +63,7 @@
 - NeurIPS 2018 best paper [Optimal Algorithms for Non-Smooth Distributed Optimization in Networks](https://arxiv.org/abs/1806.00291)
 
 
-### Unprioritized
+#### Unprioritized
 
 - FAIR, CVPR 2018: [A Closer Look at Spatiotemporal Convolutions for Action Recognition](https://research.fb.com/publications/a-closer-look-at-spatiotemporal-convolutions-for-action-recognition/)
 - FAIR, CVPR 2018: [CondenseNet: An Efficient DenseNet using Learned Group Convolutions](https://research.fb.com/publications/condensenet-an-efficient-densenet-using-learned-group-convolutions/)
@@ -70,6 +88,16 @@
 - Universal Transformer
 - R-FCN (object detection)(?)
 - MS-CNN  (multi-scale object detection, FPN relative)(?)
-- AttractioNet (multi-stage procedure for generating accuracte objdet proposals)(?)
-- CRAFT, related to AttractioNet(?)
+- AttractioNet (multi-stage procedure for generating accuracte objdet proposals)(Attend-and-refine module to update bounding box locations iteratively) (?). [References from HTC paper literature review]  
+- CRAFT (incorporates cascade structure into RPN) [References from HTC paper literature review]
 - [A Comprehensive Survey of Deep Learning for Image Captioning](https://arxiv.org/pdf/1810.04020.pdf)
+- Instance-FCN (Detection based, instance segmentation) [References from HTC paper literature review]
+- MNC (detection based, instance segmentation), three subtasks (instance localization, mask prediction, object categorization) trained in cacade manner [References from HTC paper literature review]
+- FCIS (detection based, instance segmentation). Extends InstanceFCN. Fully convolutional [References from HTC paper literature review]
+- PANet (FPN top-down path + new bottom-up path) [References from HTC paper literature review]
+- MaskLab, DeepMask, SharpMask (detection based, instance segmentation) [References from HTC paper literature review]
+- Multi-region CNN (iteratize localization mechanism that alternates between box scoring and location refinement) [References from HTC paper literature review]
+- IoUNet (performs progressive bounding box refinement, even though not presenting a cascade structure explicitly) [References from HTC paper literature review]
+- CC-Net (rejects easy RoIs at shallow layers) [References from HTC paper literature review]
+- A convolutional neural network cascade for face detection (proposes to operate at multiple resolutions to reject simple samples) [Referenced from HTC paper literature review]
+- [COCO-Stuff: Thing and Stuff Classes in Context](https://arxiv.org/pdf/1612.03716.pdf). COCO dataset augmentation with pixelwise stuff annotations. Things are classes like 'cars', 'bikes'. Stuff is :'sky', 'grass'. 
