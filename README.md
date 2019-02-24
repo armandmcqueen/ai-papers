@@ -11,15 +11,14 @@
 
 
 - [Data Distillation: Towards Omni-Supervised Learning](https://research.fb.com/publications/data-distillation-towards-omni-supervised-learning/). FAIR, CVPR 2018
-- [[ResNet] Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385). Dec 2015
+- [Training Deep Nets with Sublinear Memory Cost](https://arxiv.org/abs/1604.06174.pdf)
 - [Fast R-CNN](https://arxiv.org/abs/1504.08083). April 2015
 - [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/abs/1506.01497). June 2015
+- [MegDet: A Large Mini-Batch Object Detector](https://arxiv.org/abs/1711.07240). Nov 2017. Introduced SyncBN
 - [Mask R-CNN](https://arxiv.org/abs/1703.06870). March 2017
 - [[FPN] Feature Pyramid Networks for Object Detection](https://arxiv.org/abs/1612.03144). Dec 2016.
 - [Group Normalization](https://arxiv.org/abs/1803.08494). March 2018
-- [MegDet: A Large Mini-Batch Object Detector](https://arxiv.org/abs/1711.07240). Nov 2017. Introduced SyncBN
 - [TF-Replicator: Distributed Machine Learning For Researchers](https://arxiv.org/pdf/1902.00465.pdf)
-- [Training Deep Nets with Sublinear Memory Cost](https://arxiv.org/abs/1604.06174.pdf)
 - [Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](https://arxiv.org/abs/1706.02677). June 2017. Facebook. ResNet time-to-train SotA. Paper with Linear Scaling Rule: scale LR linearly with batch size
 - [Highly Scalable Deep Learning Training System with Mixed-Precision: Training ImageNet in Four Minutes](https://arxiv.org/abs/1807.11205) July 2018. Tencent. ResNet time-to-train SotA 
 - [ImageNet/ResNet-50 Training in 224 Seconds](https://arxiv.org/abs/1811.05233). Nov 2018. Sony. ResNet time-to-train SotA
@@ -27,6 +26,7 @@
 - [[SENet] Squeeze-and-Excitation Networks](https://arxiv.org/abs/1709.01507). Sept 2017.
 - [Cyclical Learning Rates for Training Neural Networks](https://arxiv.org/abs/1506.01186). June 2015
 - [Don't Decay the Learning Rate, Increase the Batch Size](https://arxiv.org/abs/1711.00489). Nov 2017.
+- [[ResNet] Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385). Dec 2015
 
 
 ## Unread Papers
