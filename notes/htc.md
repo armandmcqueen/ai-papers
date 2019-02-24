@@ -10,7 +10,7 @@
     - Deformable convolution, SyncBN, Multi-scale training, SENet-154 backbone, Guided Anchoring, Multi-scale testing, Ensemble of {SENet-154, ResNeXt-101 64\*4d, ResNeXt-101 32\*8d, DPN-107, FishNet}
 
 ### Key Quotes
-- " A direct combination of Cascade R-CNN and Mask R-CNN only brings limited gain in terms of mask AP compared to bbox AP. Specifically, it improves bbox AP by 3.5% but mask AP by 1.2%"
+- "A direct combination of Cascade R-CNN and Mask R-CNN only brings limited gain in terms of mask AP compared to bbox AP. Specifically, it improves bbox AP by 3.5% but mask AP by 1.2%"
 
 - "Compared to existing frameworks, HTC is distinctive in several aspects: 
     - (1) It interleaves bounding box regression and mask prediction instead of executing them in parallel. 
