@@ -4,7 +4,6 @@
 
 ### High
 
-- [Cascade R-CNN: Delving into High Quality Object Detection](https://arxiv.org/abs/1712.00726)
 - [Hybrid Task Cascade for Instance Segmentation](https://arxiv.org/abs/1901.07518). Jan 2019. SotA Instance Segmentation MSCOCO.
 - [[Transformer] Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 - [Transformer-XL: Attentive Language Models Beyond A Fixed-Length Context](https://arxiv.org/pdf/1901.02860.pdf). Jan 2019 SotA. Pre-GPT-2. CMU + Google Brain
