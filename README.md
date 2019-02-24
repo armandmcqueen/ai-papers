@@ -102,4 +102,7 @@
 - IoUNet (performs progressive bounding box refinement, even though not presenting a cascade structure explicitly) [References from HTC paper literature review]
 - CC-Net (rejects easy RoIs at shallow layers) [References from HTC paper literature review]
 - A convolutional neural network cascade for face detection (proposes to operate at multiple resolutions to reject simple samples) [Referenced from HTC paper literature review]
-- [COCO-Stuff: Thing and Stuff Classes in Context](https://arxiv.org/pdf/1612.03716.pdf). COCO dataset augmentation with pixelwise stuff annotations. Things are classes like 'cars', 'bikes'. Stuff is :'sky', 'grass'. 
+- [COCO-Stuff: Thing and Stuff Classes in Context](https://arxiv.org/pdf/1612.03716.pdf). COCO dataset augmentation with pixelwise stuff annotations. Things are classes like 'cars', 'bikes'. Stuff is :'sky', 'grass'.
+- Atrous Spatial Pyramid Pooling (ASPP)
+- Global Convolutional Network (GCN)
+- SoftNMS 
