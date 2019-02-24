@@ -1,5 +1,6 @@
 # [Cascade R-CNN: Delving into High Quality Object Detection](https://arxiv.org/abs/1712.00726)
 
+([pdf](https://arxiv.org/pdf/1712.00726.pdf))
 - December 2017
 - SotA COCO object detection (for 'single-model' detectors - perhaps beaten by ensemble detector?)
 - Sequence of detectors trained for different IoU
