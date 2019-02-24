@@ -17,7 +17,15 @@
 - GroupNorm
 - MegDet (SyncBN)
 - [TF-Replicator: Distributed Machine Learning For Researchers](https://arxiv.org/pdf/1902.00465.pdf)
-- [Training Deep Nets with Sublinear Memory Cost](https://arxiv.org/abs/1604.06174****)
+- [Training Deep Nets with Sublinear Memory Cost](https://arxiv.org/abs/1604.06174.pdf)
+- [Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](https://arxiv.org/abs/1706.02677). June 2017. Facebook. ResNet time-to-train SotA. Paper with Linear Scaling Rule: scale LR linearly with batch size
+- [Highly Scalable Deep Learning Training System with Mixed-Precision: Training ImageNet in Four Minutes](https://arxiv.org/abs/1807.11205) July 2018. Tencent. ResNet time-to-train SotA 
+- [ImageNet/ResNet-50 Training in 224 Seconds](https://arxiv.org/abs/1811.05233). Nov 2018. Sony. ResNet time-to-train SotA
+- [Large Batch Training of Convolutional Networks](https://arxiv.org/abs/1708.03888). Layer-wise adaptive rate scaling (LARS)
+- Squeeze-and-excite
+- Cyclic learning rates
+- Don't decay LR, increase BS
+
 
 ## Unread Papers
 
@@ -37,7 +45,7 @@
 
 #### Med Priority
 
-- PlanNet
+- [[PlanNet] Learning Latent Dynamics for Planning from Pixels](https://arxiv.org/abs/1811.04551) ([blog](https://ai.googleblog.com/2019/02/introducing-planet-deep-planning.html)). Google. A Deep Planning Network for Reinforcement Learning
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf). Google LM, Oct 2018 SotA (pre MT-DNN which uses BERT to set new SotA) 
 - [[GPT] Improving Language Understanding by Generative Pre-Training](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf).  OpenAI LM, June 2018 SotA (pre BERT). Minimal benchmark overlap with ELMo
 - [[GPT-2] Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf). Feb 2019 SotA, Multi-task NLP
@@ -54,12 +62,10 @@
 
 - DetNet (object detection backbone. Mid 2018)
 - ResNeXt
+- SENet
 - LASER
-- Don't decay LR, increase BS
-- Squeeze-and-excite
 - MobileNet
 - UNet
-- Cyclic learning rates
 - MVCNN
 - [Measuring the Effects of Data Parallelism on Neural Network Training](https://arxiv.org/abs/1811.03600)
 - NeurIPS 2018 best paper [Optimal Algorithms for Non-Smooth Distributed Optimization in Networks](https://arxiv.org/abs/1806.00291)
@@ -106,3 +112,5 @@
 - Atrous Spatial Pyramid Pooling (ASPP)
 - Global Convolutional Network (GCN)
 - SoftNMS 
+- A3C (RL)
+- D4PG (RL)
