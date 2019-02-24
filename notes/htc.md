@@ -7,13 +7,7 @@
     - only bounding box information is propagated to the next stage, no mask refinement is done.
     - Mask happens in parallel to bounding box, when bounding box output could help mask make better masks 
 - Additional Techniques for best known mAP
-    - Deformable convolution
-    - SyncBN
-    - Multi-scale training
-    - SENet-154 backbone
-    - Guided Anchoring
-    - Multi-scale testing
-    - Ensemble of SENet-154, ResNeXt-101 64\*4d, ResNeXt-101 32\*8d, DPN-107, FishNet
+    - Deformable convolution, SyncBN, Multi-scale training, SENet-154 backbone, Guided Anchoring, Multi-scale testing, Ensemble of {SENet-154, ResNeXt-101 64\*4d, ResNeXt-101 32\*8d, DPN-107, FishNet}
 
 ### Key Quotes
 - " A direct combination of Cascade R-CNN and Mask R-CNN only brings limited gain in terms of mask AP compared to bbox AP. Specifically, it improves bbox AP by 3.5% but mask AP by 1.2%"
