@@ -134,3 +134,4 @@
 - [AlphaZero](https://arxiv.org/pdf/1712.01815.pdf) ([blog](https://deepmind.com/blog/alphazero-shedding-new-light-grand-games-chess-shogi-and-go])). Chess, self-playing
 - AlphaFold ([blog](https://deepmind.com/blog/alphafold/))
 - [CRAFT: Complementary Recommendations Using Adversarial Feature Transformer](https://arxiv.org/abs/1804.10871). Amazon.com. April 2018.
+- [DeNet: Scalable Real-time Object Detection with Directed Sparse Sampling](https://arxiv.org/abs/1703.10295). object detection is estimating a very large but extremely sparse bounding box dependent probability distribution
