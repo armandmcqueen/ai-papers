@@ -6,7 +6,7 @@
 - Cascade Mask R-CNN is not effective use of cascade  
     - only bounding box information is propagated to the next stage, no mask refinement is done.
     - Mask happens in parallel to bounding box, when bounding box output could help mask make better masks 
-- Additional Techniques for best known mAP
+- Additional techniques for best known mAP
     - Deformable convolution, SyncBN, Multi-scale training, SENet-154 backbone, Guided Anchoring, Multi-scale testing, Ensemble of {SENet-154, ResNeXt-101 64\*4d, ResNeXt-101 32\*8d, DPN-107, FishNet}
 
 ### Key Quotes
