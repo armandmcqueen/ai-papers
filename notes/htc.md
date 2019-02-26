@@ -1,4 +1,6 @@
-# [[HTC] Hybrid Task Cascade for Instance Segmentation](https://arxiv.org/abs/1901.07518). 
+# [[HTC] Hybrid Task Cascade for Instance Segmentation](https://arxiv.org/abs/1901.07518).
+
+([pdf](https://arxiv.org/pdf/1901.07518.pdf)) 
 
 - Jan 2019. 
 - SotA COCO Instance Segmentation
