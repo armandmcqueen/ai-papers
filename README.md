@@ -6,6 +6,7 @@
 - [Cascade R-CNN](notes/cascade_rcnn.md)
 - [Hybrid Task Cascade](notes/htc.md)
 - [RetinaNet/Focal Loss](notes/retinanet.md)
+- [Light-Head R-CNN](notes/lighthead_rcnn.md)
 
 ## Read but need to add notes
 
@@ -33,7 +34,6 @@
 
 #### High Priority
 
-- [Light-Head R-CNN: In Defense of Two-Stage Object Detector](https://arxiv.org/abs/1711.07264). Nov 2017. Megvii. High performance, high accuracy two-stage object detection. 
 - [[Transformer] Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 - [Transformer-XL: Attentive Language Models Beyond A Fixed-Length Context](https://arxiv.org/pdf/1901.02860.pdf). Jan 2019 SotA. Pre-GPT-2. CMU + Google Brain
 - [FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction](https://arxiv.org/abs/1901.03495). Jan 2019. Best new backbone? Resnet+ accuracy with fewer params. Part of SotA entry COCO Object Detection 2018
