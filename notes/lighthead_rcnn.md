@@ -1,4 +1,4 @@
-# [Light-Head R-CNN: In Defense of Two-Stage Object Detector](https://arxiv.org/abs/1711.07264).
+# [Light-Head R-CNN: In Defense of Two-Stage Object Detector](https://arxiv.org/abs/1711.07264)
 
 ([pdf](https://arxiv.org/pdf/1711.07264.pdf)) 
 

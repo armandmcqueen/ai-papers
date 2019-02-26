@@ -1,4 +1,4 @@
-# [Data Distillation: Towards Omni-Supervised Learning](https://research.fb.com/publications/data-distillation-towards-omni-supervised-learning/). 
+# [Data Distillation: Towards Omni-Supervised Learning](https://research.fb.com/publications/data-distillation-towards-omni-supervised-learning/)
 
 ([pdf](https://research.fb.com/wp-content/uploads/2018/06/Data-Distillation-Towards-Omni-Supervised-Learning.pdf?))
 
