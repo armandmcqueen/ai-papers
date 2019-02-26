@@ -7,11 +7,11 @@
 - [Hybrid Task Cascade](notes/htc.md)
 - [RetinaNet/Focal Loss](notes/retinanet.md)
 - [Light-Head R-CNN](notes/lighthead_rcnn.md)
+- [Data Distillation](notes/data_distillation.md)
 
 ## Read but need to add notes
 
 
-- [Data Distillation: Towards Omni-Supervised Learning](https://research.fb.com/publications/data-distillation-towards-omni-supervised-learning/). FAIR, CVPR 2018
 - [Training Deep Nets with Sublinear Memory Cost](https://arxiv.org/abs/1604.06174.pdf)
 - [Fast R-CNN](https://arxiv.org/abs/1504.08083). April 2015
 - [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/abs/1506.01497). June 2015
