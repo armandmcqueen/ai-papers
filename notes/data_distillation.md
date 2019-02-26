@@ -3,6 +3,7 @@
 ([pdf](https://research.fb.com/wp-content/uploads/2018/06/Data-Distillation-Towards-Omni-Supervised-Learning.pdf?))
 
 - FAIR 
+- December 2017
 - CVPR 2018
 - 'Omni-supervised learning', where both label and unlabeled data are used to take advantage of the internet-scale quantities of unlabeled data.
 - Train a model (the 'teacher') on labeled data and then use that model to label large quantities of data. Use all the data to train a 'student' model. This increases accuracy.
