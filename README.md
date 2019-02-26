@@ -28,6 +28,8 @@
 - [Cyclical Learning Rates for Training Neural Networks](https://arxiv.org/abs/1506.01186). June 2015
 - [Don't Decay the Learning Rate, Increase the Batch Size](https://arxiv.org/abs/1711.00489). Nov 2017.
 - [[ResNet] Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385). Dec 2015
+- [Memory-Efficient Backpropagation Through Time](https://arxiv.org/abs/1606.03401). June 2016
+- [In-Place Activated BatchNorm for Memory-Optimized Training of DNNs](https://arxiv.org/abs/1712.02616). Dec 2017
 
 
 ## Unread Papers
