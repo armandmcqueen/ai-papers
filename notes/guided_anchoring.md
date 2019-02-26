@@ -8,7 +8,7 @@
 - Improves recall of the RPN
 - Has a cost to training time and a cost to RPN inference time, but improves accuracy (across multiple tasks) 
 - Use fine-tuning to add GA-RPN to a model training with a classic RPN (3 additional epochs)
-- May improve inference time when the model has a heavy head (Mask RCNN?)
+- May improve inference time when the model has a heavy head (Mask R-CNN?)
 - Anchor generation module predicts where objects will exist and, given the location, what shape the object will be.
 - The varying anchor shapes necessitates a feature adaptation module that ensures consistency among features being passed to deeper layers.
 
