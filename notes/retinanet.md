@@ -1,4 +1,6 @@
-# [[RetinaNet] Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002). 
+# [[RetinaNet] Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002)
+
+([pdf](https://arxiv.org/pdf/1708.02002.pdf)) 
 
 - FAIR
 - Aug 2017
