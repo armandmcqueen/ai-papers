@@ -12,13 +12,11 @@
 ## Read but need to add notes
 
 
-- [Training Deep Nets with Sublinear Memory Cost](https://arxiv.org/abs/1604.06174.pdf)
 - [Fast R-CNN](https://arxiv.org/abs/1504.08083). April 2015
 - [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/abs/1506.01497). June 2015
-- [MegDet: A Large Mini-Batch Object Detector](https://arxiv.org/abs/1711.07240). Nov 2017. Introduced SyncBN
 - [Mask R-CNN](https://arxiv.org/abs/1703.06870). March 2017
+- [MegDet: A Large Mini-Batch Object Detector](https://arxiv.org/abs/1711.07240). Nov 2017. Introduced SyncBN
 - [[FPN] Feature Pyramid Networks for Object Detection](https://arxiv.org/abs/1612.03144). Dec 2016.
-- [Group Normalization](https://arxiv.org/abs/1803.08494). March 2018
 - [TF-Replicator: Distributed Machine Learning For Researchers](https://arxiv.org/pdf/1902.00465.pdf)
 - [Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](https://arxiv.org/abs/1706.02677). June 2017. Facebook. ResNet time-to-train SotA. Paper with Linear Scaling Rule: scale LR linearly with batch size
 - [Highly Scalable Deep Learning Training System with Mixed-Precision: Training ImageNet in Four Minutes](https://arxiv.org/abs/1807.11205) July 2018. Tencent. ResNet time-to-train SotA 
@@ -30,24 +28,29 @@
 - [[ResNet] Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385). Dec 2015
 - [Memory-Efficient Backpropagation Through Time](https://arxiv.org/abs/1606.03401). June 2016
 - [In-Place Activated BatchNorm for Memory-Optimized Training of DNNs](https://arxiv.org/abs/1712.02616). Dec 2017
+- [Training Deep Nets with Sublinear Memory Cost](https://arxiv.org/abs/1604.06174.pdf)
+- [Group Normalization](https://arxiv.org/abs/1803.08494). March 2018
+
 
 
 ## Unread Papers
 
 #### High Priority
 
+- [FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction](https://arxiv.org/abs/1901.03495). Jan 2019. Best new backbone? Resnet+ accuracy with fewer params. Part of SotA entry COCO Object Detection 2018
 - [[Transformer] Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 - [Transformer-XL: Attentive Language Models Beyond A Fixed-Length Context](https://arxiv.org/pdf/1901.02860.pdf). Jan 2019 SotA. Pre-GPT-2. CMU + Google Brain
-- [FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction](https://arxiv.org/abs/1901.03495). Jan 2019. Best new backbone? Resnet+ accuracy with fewer params. Part of SotA entry COCO Object Detection 2018
 - [[ODENet] Neural Ordinary Differential Equations](https://arxiv.org/pdf/1806.07366.pdf). NeurIPS 2018 best paper, time-series.
 - [AlphaStar](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/). DeepMind. Starcraft II RL agent that reaches ~95% percentile of human players.
-- [SSD: Single Shot MultiBox Detector](https://arxiv.org/abs/1512.02325). Dec 2015 
 - [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640). June 2015
 - [[YOLOv2] YOLO9000: Better, Faster, Stronger](https://arxiv.org/abs/1612.08242). Dec 2016
 - [YOLOv3: An Incremental Improvement](https://arxiv.org/abs/1804.02767) April 2018
 - [Deformable Convolutional Networks](https://arxiv.org/abs/1703.06211). June 2017
 - [Deformable ConvNets v2: More Deformable, Better Results](https://arxiv.org/abs/1811.11168). Nov 2018
 - [R-FCN: Object Detection via Region-based Fully Convolutional Networks](https://arxiv.org/abs/1605.06409). May 2016. Object detection
+- [[PANet] Path Aggregation Network for Instance Segmentation](https://arxiv.org/abs/1803.01534) . March 2018. FPN top-down path + new bottom-up path. [Referenced from HTC paper literature review]
+- [DeNet: Scalable Real-time Object Detection with Directed Sparse Sampling](https://arxiv.org/abs/1703.10295). object detection is estimating a very large but extremely sparse bounding box dependent probability distribution
+
 
 
 #### Medium Priority
@@ -66,6 +69,8 @@
 - [Large-Scale Study of Curiosity-Driven Learning](https://pathak22.github.io/large-scale-curiosity/resources/largeScaleCuriosity2018.pdf). OpenAI
 - [You May Not Need Attention](https://arxiv.org/abs/1810.13409)
 - [Human-level performance in first-person multiplayer games with population-based deep reinforcement learning](https://arxiv.org/abs/1807.01281) ([blog](https://deepmind.com/blog/capture-the-flag/)). Jul 2018. Have agents play each other
+- [CRAFT: Complementary Recommendations Using Adversarial Feature Transformer](https://arxiv.org/abs/1804.10871). Amazon.com. April 2018.
+- [SSD: Single Shot MultiBox Detector](https://arxiv.org/abs/1512.02325). Dec 2015 
 
 
 #### Low Priority
@@ -76,7 +81,7 @@
 - [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861). Google. Apr 2017
 - [MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/abs/1801.04381). Google. Jan 2018.
 - [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597). May 2015
-- [[MVCNN] https://arxiv.org/abs/1505.00880](https://arxiv.org/abs/1505.00880). May 2015
+- [[MVCNN] Multi-view Convolutional Neural Networks for 3D Shape Recognition](https://arxiv.org/abs/1505.00880). May 2015
 - [Measuring the Effects of Data Parallelism on Neural Network Training](https://arxiv.org/abs/1811.03600)
 - [Optimal Algorithms for Non-Smooth Distributed Optimization in Networks](https://arxiv.org/abs/1806.00291). NeurIPS 2018 best paper 
 - [Speed/accuracy trade-offs for modern convolutional object detectors](https://arxiv.org/abs/1611.10012). Nov 2016
@@ -111,7 +116,6 @@
 - [[Instance-FCN] Instance-sensitive Fully Convolutional Networks](https://arxiv.org/abs/1603.08678). Detection based, instance segmentation. [References from HTC paper literature review]
 - [[MNC] Instance-aware Semantic Segmentation via Multi-task Network Cascades](https://arxiv.org/abs/1512.04412) Dec 2015. Detection based, instance segmentation. Three subtasks (instance localization, mask prediction, object categorization) trained in cascade manner [References from HTC paper literature review]
 - [[FCIS] Fully Convolutional Instance-aware Semantic Segmentation](https://arxiv.org/abs/1611.07709) Nov 2016. Detection based, instance segmentation. Extends InstanceFCN. Fully convolutional [References from HTC paper literature review]
-- [[PANet] Path Aggregation Network for Instance Segmentation](https://arxiv.org/abs/1803.01534) . March 2018. FPN top-down path + new bottom-up path. [References from HTC paper literature review]
 - MaskLab, DeepMask, SharpMask (detection based, instance segmentation) [References from HTC paper literature review]
 - Multi-region CNN (iteratize localization mechanism that alternates between box scoring and location refinement) [References from HTC paper literature review]
 - IoUNet (performs progressive bounding box refinement, even though not presenting a cascade structure explicitly) [References from HTC paper literature review]
@@ -135,6 +139,4 @@
 - [Re-evaluating Evaluation](https://arxiv.org/abs/1806.02643). DeepMind. NeurIPS 2018. RL.
 - [AlphaZero](https://arxiv.org/pdf/1712.01815.pdf) ([blog](https://deepmind.com/blog/alphazero-shedding-new-light-grand-games-chess-shogi-and-go])). Chess, self-playing
 - AlphaFold ([blog](https://deepmind.com/blog/alphafold/))
-- [CRAFT: Complementary Recommendations Using Adversarial Feature Transformer](https://arxiv.org/abs/1804.10871). Amazon.com. April 2018.
-- [DeNet: Scalable Real-time Object Detection with Directed Sparse Sampling](https://arxiv.org/abs/1703.10295). object detection is estimating a very large but extremely sparse bounding box dependent probability distribution
 - [Demystifying Parallel and Distributed Deep Learning: An In-Depth Concurrency Analysis](https://arxiv.org/abs/1802.09941). Feb 2018. 
