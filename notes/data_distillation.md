@@ -49,7 +49,10 @@
 - "This paper opts for geometric transformations for multi-transform inference, though other transformations such as color jittering are possible. The only requirement is that it must be possible to ensemble the resulting predictions"
 
 
-- "We expect the predicted boxes and keypoints to be reliable enough for generating good training labels. Nevertheless, the predictions will contain false positives that we hope to identify and discard. We use the predicted detection score as a proxy for prediction quality and generate annotations only from the predictions that are above a certain score threshold. In practice, we found that a score threshold works well if it makes “the average number of annotated instances per unlabeled image” roughly equal to “the average number of instances per labeled image”. Although this heuristic assumes that the unlabeled and labeled images follow similar distributions, we found that it is robust and works well even in cases where the assumption does not hold"
+- "Predictions will contain false positives that we hope to identify and discard. We [...] generate annotations only from the predictions [where the predicted detection scores] are above a certain score threshold. In practice, we found that a score threshold works well if it makes “the average number of annotated instances per unlabeled image” roughly equal to “the average number of instances per labeled image”. Although this heuristic assumes that the unlabeled and labeled images follow similar distributions, we found that it is robust and works well even in cases where the assumption does not hold"
+
+
+- [Similar to above], there may be false negatives (i.e., missing detections) in the extra data, and the annotations generated should not necessarily be viewed as complete (i.e., absence of an annotation does not imply true background). However, in our practice we have tried either to sample or not sample background regions from the extra data for training detectors, and have observed no difference in accuracy."
 
 
 - "The student can either be fine-tuned starting from the teacher model or retrained from the initial weights (i.e., those pre-trained on ImageNet). We found that retraining consistently results in better performance, suggesting that the teacher model could have been in a poor local optimum"
