@@ -23,7 +23,7 @@
 - "We also adopt Guided Anchoring in Fast R-CNN, Faster R-CNN and RetinaNet, respectively improving the detection mAP by 2.2%, 2.7% and 1.2%."
 
 
-- "A fine-tuning schedule using GA-RPN proposals [...] can improve the performance of any trained models, e.g., it improves a fully converged Faster R-CNN model from 37.4% to 39.6%, in only 3 epochs."
+- "A fine-tuning schedule using GA-RPN proposals [...] can improve the performance of any [of the] trained models, e.g., it improves a fully converged Faster R-CNN model from 37.4% to 39.6%, in only 3 epochs."
 
 
 - "A uniform anchoring scheme [...] is not necessarily the optimal way to prepare the anchors. This scheme can lead to two difficulties: 
