@@ -140,3 +140,4 @@
 - [AlphaZero](https://arxiv.org/pdf/1712.01815.pdf) ([blog](https://deepmind.com/blog/alphazero-shedding-new-light-grand-games-chess-shogi-and-go])). Chess, self-playing
 - AlphaFold ([blog](https://deepmind.com/blog/alphafold/))
 - [Demystifying Parallel and Distributed Deep Learning: An In-Depth Concurrency Analysis](https://arxiv.org/abs/1802.09941). Feb 2018. 
+- [FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search](https://arxiv.org/abs/1812.03443). Dec 2018
