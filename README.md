@@ -141,3 +141,4 @@
 - AlphaFold ([blog](https://deepmind.com/blog/alphafold/))
 - [Demystifying Parallel and Distributed Deep Learning: An In-Depth Concurrency Analysis](https://arxiv.org/abs/1802.09941). Feb 2018. 
 - [FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search](https://arxiv.org/abs/1812.03443). Dec 2018
+- [Random Search and Reproducibility for Neural Architecture Search](https://arxiv.org/abs/1902.07638). Feb 2019. CMU
