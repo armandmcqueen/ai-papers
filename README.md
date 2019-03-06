@@ -42,7 +42,6 @@
 - [Transformer-XL: Attentive Language Models Beyond A Fixed-Length Context](https://arxiv.org/pdf/1901.02860.pdf). Jan 2019 SotA. Pre-GPT-2. CMU + Google Brain
 - [[ODENet] Neural Ordinary Differential Equations](https://arxiv.org/pdf/1806.07366.pdf). NeurIPS 2018 best paper, time-series.
 - [AlphaStar](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/). DeepMind. Starcraft II RL agent that reaches ~95% percentile of human players.
-- [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640). June 2015
 - [[YOLOv2] YOLO9000: Better, Faster, Stronger](https://arxiv.org/abs/1612.08242). Dec 2016
 - [YOLOv3: An Incremental Improvement](https://arxiv.org/abs/1804.02767) April 2018
 - [Deformable Convolutional Networks](https://arxiv.org/abs/1703.06211). June 2017
