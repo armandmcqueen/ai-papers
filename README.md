@@ -38,6 +38,7 @@
 
 #### High Priority
 
+- [Mask Scoring R-CNN](https://arxiv.org/pdf/1903.00241v1.pdf). Mar 2019. Horizon Robotics. Mask RCNN + scoring block that learns quality of predictions. Beats MaskRCNN accuracy.
 - [FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction](https://arxiv.org/abs/1901.03495). Jan 2019. Best new backbone? Resnet+ accuracy with fewer params. Part of SotA entry COCO Object Detection 2018
 - [[Transformer] Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 - [Transformer-XL: Attentive Language Models Beyond A Fixed-Length Context](https://arxiv.org/pdf/1901.02860.pdf). Jan 2019 SotA. Pre-GPT-2. CMU + Google Brain
@@ -50,6 +51,10 @@
 - [R-FCN: Object Detection via Region-based Fully Convolutional Networks](https://arxiv.org/abs/1605.06409). May 2016. Object detection
 - [[PANet] Path Aggregation Network for Instance Segmentation](https://arxiv.org/abs/1803.01534) . March 2018. FPN top-down path + new bottom-up path. [Referenced from HTC paper literature review]
 - [DeNet: Scalable Real-time Object Detection with Directed Sparse Sampling](https://arxiv.org/abs/1703.10295). object detection is estimating a very large but extremely sparse bounding box dependent probability distribution
+- [Speeding up Deep Learning with Transient Servers](https://arxiv.org/pdf/1903.00045v1.pdf). Feb 2019. WPI, Chinese Academy of Sciences
+- [A Structured Model For Action Detection](https://arxiv.org/pdf/1812.03544v3.pdf). Feb 2019. CMU, Google. SotA on AVA dataset (according to abstract.)
+- [Lingvo: a Modular and Scalable Framework for Sequence-to-Sequence Modeling](https://arxiv.org/pdf/1902.08295v1.pdf). Feb 2019. Google (presumably). https://github.com/tensorflow/lingvo
+- [FIXUP INITIALIZATION: RESIDUAL LEARNING WITHOUT NORMALIZATION](https://arxiv.org/pdf/1901.09321v1.pdf). Jan 2019. Work done at Facebook.
 
 
 
@@ -71,6 +76,7 @@
 - [Human-level performance in first-person multiplayer games with population-based deep reinforcement learning](https://arxiv.org/abs/1807.01281) ([blog](https://deepmind.com/blog/capture-the-flag/)). Jul 2018. Have agents play each other
 - [CRAFT: Complementary Recommendations Using Adversarial Feature Transformer](https://arxiv.org/abs/1804.10871). Amazon.com. April 2018.
 - [SSD: Single Shot MultiBox Detector](https://arxiv.org/abs/1512.02325). Dec 2015 
+- [FEDERATED LEARNING FOR MOBILE KEYBOARD PREDICTION](https://arxiv.org/pdf/1811.03604v2.pdf). Feb 2019. Google.
 
 
 #### Low Priority
@@ -142,3 +148,19 @@
 - [Demystifying Parallel and Distributed Deep Learning: An In-Depth Concurrency Analysis](https://arxiv.org/abs/1802.09941). Feb 2018. 
 - [FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search](https://arxiv.org/abs/1812.03443). Dec 2018
 - [Random Search and Reproducibility for Neural Architecture Search](https://arxiv.org/abs/1902.07638). Feb 2019. CMU
+- [Deep Object-Centric Policies for Autonomous Driving](https://arxiv.org/pdf/1811.05432v2.pdf). Mar 2019. UC Berkeley
+- [Accelerating Self-Play Learning in Go](https://arxiv.org/pdf/1902.10565v2.pdf). Mar 2019. Jane Street
+- [Representation Flow for Action Recognition](https://arxiv.org/pdf/1810.01455v2.pdf). Mar 2019, Indiana University. Abstract claim advantage in computational speed and 'performance'
+- [Multimodal Trajectory Predictions for Autonomous Driving using Deep Convolutional Networks](https://arxiv.org/pdf/1809.10732v2.pdf). Mar 2019. Uber ATG
+- [Continuous Integration of Machine Learning Models with ease.ml/ci: Towards a Rigorous Yet Practical Treatment](https://arxiv.org/pdf/1903.00278v1.pdf). Mar 2019. Many authors: ETH Zurich, Alibaba Group, Huawei Technologies, Modulos AG, Microsoft Research
+- [Object Recognition in Deep Convolutional Neural Networks is Fundamentally Different to That in Humans](https://arxiv.org/pdf/1903.00258v1.pdf). Mar 2019. University of Aberdeen, University of Essex. psychology dept.
+- [Double Quantization for Communication-Efficient Distributed Optimization](https://arxiv.org/pdf/1805.10111v3.pdf). Mar 2019. Tsinghua University, Tencent AI 
+- [RESTRUCTURING BATCH NORMALIZATION TO ACCELERATE CNN TRAINING](https://arxiv.org/pdf/1807.01702v2.pdf). Mar 2019. Seoul National University and Samsung. SysML
+- [Characterizing Activity on the Deep and Dark Web](https://arxiv.org/pdf/1903.00156v1.pdf). Mar 2019. USC, Georgia Tech. Interesting data set.
+- [Video Extrapolation with an Invertible Linear Embedding](https://arxiv.org/pdf/1903.00133v1.pdf). Mar 2019. BYU. Predict future video frames.
+- [Video Summarization via Actionness Ranking](https://arxiv.org/pdf/1903.00110v1.pdf). Mar 2019. University of Central Florida, Center for Research in Computer Vision (CRCV).
+- [Actor and Action Video Segmentation from a Sentence](https://arxiv.org/pdf/1803.07485v1.pdf). Mar 2018. University of Amsterdam
+- [Diagnosing Bottlenecks in Deep Q-learning Algorithms](https://arxiv.org/pdf/1902.10250v1.pdf). Feb 2019. UC Berkeley
+- [BERT for Joint Intent Classification and Slot Filling](https://arxiv.org/pdf/1902.10909v1.pdf). Feb 2019. Alibaba.
+- [Efficient Video Classification Using Fewer Frames](https://arxiv.org/pdf/1902.10640v1.pdf). Feb 2019. Indian Institute of Technology Madras, NVIDIA Bangalore
+
