@@ -4,8 +4,6 @@
 
 - June 2015
 - UWashington, Allen Institute for AI, FAIR
-
-
 - Extremely fast object detection framework
 - Lower accuracy is the tradeoff for speed - localization is often off.
 - Resizes the input image to a fixed size, divides input image into grid and for each cell in the grid predict boxes and classes. 
@@ -15,6 +13,7 @@
 - `B` is set at design time, not dynamic
 - The models is 24 convolutional layers followed by two fully connected layers.
 - The output is a `S × S × (B * 5 + C)` tensor where `S x S` is the size of the grid, `B` is the number of bounding boxes per cell, `5` represents the coordinates of the box + the objectness confidence and `C` is the number of classes.
+
 
 ### Key Quotes
 
