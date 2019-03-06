@@ -8,6 +8,7 @@
 - [RetinaNet/Focal Loss](notes/retinanet.md)
 - [Light-Head R-CNN](notes/lighthead_rcnn.md)
 - [Data Distillation](notes/data_distillation.md)
+- [YOLO v1](notes/yolo.md)
 
 ## Read but need to add notes
 
