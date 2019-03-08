@@ -163,4 +163,4 @@
 - [Diagnosing Bottlenecks in Deep Q-learning Algorithms](https://arxiv.org/pdf/1902.10250v1.pdf). Feb 2019. UC Berkeley
 - [BERT for Joint Intent Classification and Slot Filling](https://arxiv.org/pdf/1902.10909v1.pdf). Feb 2019. Alibaba.
 - [Efficient Video Classification Using Fewer Frames](https://arxiv.org/pdf/1902.10640v1.pdf). Feb 2019. Indian Institute of Technology Madras, NVIDIA Bangalore
-
+- [ADAPTIVE COMMUNICATION STRATEGIES TO ACHIEVE THE BEST ERROR-RUNTIME TRADE-OFF IN LOCAL-UPDATE SGD](https://arxiv.org/pdf/1810.08313v2.pdf). Mar 2019. CMU
