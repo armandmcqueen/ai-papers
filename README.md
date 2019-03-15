@@ -55,6 +55,7 @@
 - [A Structured Model For Action Detection](https://arxiv.org/pdf/1812.03544v3.pdf). Feb 2019. CMU, Google. SotA on AVA dataset (according to abstract.)
 - [Lingvo: a Modular and Scalable Framework for Sequence-to-Sequence Modeling](https://arxiv.org/pdf/1902.08295v1.pdf). Feb 2019. Google (presumably). https://github.com/tensorflow/lingvo
 - [FIXUP INITIALIZATION: RESIDUAL LEARNING WITHOUT NORMALIZATION](https://arxiv.org/pdf/1901.09321v1.pdf). Jan 2019. Work done at Facebook.
+- [Scale-Aware Trident Networks for Object Detection](https://arxiv.org/pdf/1901.01892.pdf). Mar 2019. University of Chinese Academy of Sciences, TuSimple. SotA COCO object detection
 
 
 
@@ -163,4 +164,8 @@
 - [Diagnosing Bottlenecks in Deep Q-learning Algorithms](https://arxiv.org/pdf/1902.10250v1.pdf). Feb 2019. UC Berkeley
 - [BERT for Joint Intent Classification and Slot Filling](https://arxiv.org/pdf/1902.10909v1.pdf). Feb 2019. Alibaba.
 - [Efficient Video Classification Using Fewer Frames](https://arxiv.org/pdf/1902.10640v1.pdf). Feb 2019. Indian Institute of Technology Madras, NVIDIA Bangalore
+- [An End-to-End Network for Panoptic Segmentation](https://arxiv.org/pdf/1903.05027v2.pdf). Mar 2019. Zhejiang University, Megvii. 'Promising results' on COCO Panoptic
+- [Two-Stream Oriented Video Super-Resolution for Action Recognition](https://arxiv.org/pdf/1903.05577v1.pdf). Mar 2019. University of Science and Technology of China
+- [SimpleDet: A Simple and Versatile Distributed Framework for Object Detection and Instance Recognition](https://arxiv.org/pdf/1903.05831v1.pdf). Mar 2019. MXNet (w/ extra C++ ops) object detection development framework.
+- [Deep learning for time series classification: a review](https://arxiv.org/pdf/1809.04356v3.pdf). Mar 2019. 
 
