@@ -168,4 +168,4 @@
 - [Two-Stream Oriented Video Super-Resolution for Action Recognition](https://arxiv.org/pdf/1903.05577v1.pdf). Mar 2019. University of Science and Technology of China
 - [SimpleDet: A Simple and Versatile Distributed Framework for Object Detection and Instance Recognition](https://arxiv.org/pdf/1903.05831v1.pdf). Mar 2019. MXNet (w/ extra C++ ops) object detection development framework.
 - [Deep learning for time series classification: a review](https://arxiv.org/pdf/1809.04356v3.pdf). Mar 2019. 
-
+- [ADAPTIVE COMMUNICATION STRATEGIES TO ACHIEVE THE BEST ERROR-RUNTIME TRADE-OFF IN LOCAL-UPDATE SGD](https://arxiv.org/pdf/1810.08313v2.pdf). Mar 2019. CMU
