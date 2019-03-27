@@ -31,7 +31,8 @@
 - [In-Place Activated BatchNorm for Memory-Optimized Training of DNNs](https://arxiv.org/abs/1712.02616). Dec 2017
 - [Training Deep Nets with Sublinear Memory Cost](https://arxiv.org/abs/1604.06174.pdf)
 - [Group Normalization](https://arxiv.org/abs/1803.08494). March 2018
-
+- [[C3D] Learning Spatiotemporal Features with 3D Convolutional Networks](https://arxiv.org/abs/1412.0767)
+- [[OFF] Optical Flow Guided Feature: A Fast and Robust Motion Representation for Video Action Recognition](https://arxiv.org/abs/1711.11152)
 
 
 ## Unread Papers
