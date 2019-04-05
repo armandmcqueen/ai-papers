@@ -57,6 +57,7 @@
 - [Lingvo: a Modular and Scalable Framework for Sequence-to-Sequence Modeling](https://arxiv.org/pdf/1902.08295v1.pdf). Feb 2019. Google (presumably). https://github.com/tensorflow/lingvo
 - [FIXUP INITIALIZATION: RESIDUAL LEARNING WITHOUT NORMALIZATION](https://arxiv.org/pdf/1901.09321v1.pdf). Jan 2019. Work done at Facebook.
 - [Scale-Aware Trident Networks for Object Detection](https://arxiv.org/pdf/1901.01892.pdf). Mar 2019. University of Chinese Academy of Sciences, TuSimple. SotA COCO object detection
+- [Temporal Shift Module for Efficient Video Understanding](https://arxiv.org/pdf/1811.08383v1.pdf). Nov 2018. MIT
 
 
 
@@ -81,6 +82,13 @@
 - [FEDERATED LEARNING FOR MOBILE KEYBOARD PREDICTION](https://arxiv.org/pdf/1811.03604v2.pdf). Feb 2019. Google.
 - [ConvNet Architecture Search for Spatiotemporal Feature Learning](https://arxiv.org/pdf/1708.05038.pdf). Aug 2017. FB + Columbia
 - [Rethinking Spatiotemporal Feature Learning: Speed-Accuracy Trade-offs in Video Classification](https://arxiv.org/pdf/1712.04851.pdf) July 2018. Google + UCSD
+- [50 Years of Test (Un)fairness: Lessons for Machine Learning](https://arxiv.org/pdf/1811.10104v2.pdf). Dec 2018. Google
+- [Scalable Deep Learning on Distributed Infrastructures: Challenges, Techniques and Tools](https://arxiv.org/pdf/1903.11314v1.pdf). Mar 2019. Technical University of Munich
+- [GS3D: An Efficient 3D Object Detection Framework for Autonomous Driving](https://arxiv.org/pdf/1903.10955v2.pdf). Mar 2019. CUHK + SenseTime + University Sydney + Beihang University
+- [nuScenes: A multimodal dataset for autonomous driving](https://arxiv.org/pdf/1903.11027v1.pdf). Mar 2019. nuTonomy
+- [DetNAS: Neural Architecture Search on Object Detection](https://arxiv.org/pdf/1903.10979v1.pdf). Mar 2019. Chinese Academy of Science + Megvii
+- [Large-scale interactive object segmentation with human annotators](https://arxiv.org/pdf/1903.10830v1.pdf). Mar 2019. Google
+- [TensorFlow Eager: A Multi-Stage, Python-Embedded DSL for Machine Learning](https://arxiv.org/abs/1903.01855). Feb 2019. Google Brain
 
 #### Low Priority
 
@@ -170,4 +178,47 @@
 - [Two-Stream Oriented Video Super-Resolution for Action Recognition](https://arxiv.org/pdf/1903.05577v1.pdf). Mar 2019. University of Science and Technology of China
 - [SimpleDet: A Simple and Versatile Distributed Framework for Object Detection and Instance Recognition](https://arxiv.org/pdf/1903.05831v1.pdf). Mar 2019. MXNet (w/ extra C++ ops) object detection development framework.
 - [Deep learning for time series classification: a review](https://arxiv.org/pdf/1809.04356v3.pdf). Mar 2019. 
-- [ADAPTIVE COMMUNICATION STRATEGIES TO ACHIEVE THE BEST ERROR-RUNTIME TRADE-OFF IN LOCAL-UPDATE SGD](https://arxiv.org/pdf/1810.08313v2.pdf). Mar 2019. CMU
+- [ADAPTIVE COMMUNICATION STRATEGIES TO ACHIEVE THE BEST ERROR-RUNTIME TRADE-OFF IN LOCAL-UPDATE SGD](https://arxiv.org/pdf/1810.08313v2.pdf). Mar 2019. SysML. CMU
+- [Real time backbone for semantic segmentation](https://arxiv.org/pdf/1903.06922v1.pdf). Mar 2019. 
+- [Learning Correspondence from the Cycle-consistency of Time](https://arxiv.org/pdf/1903.07593v1.pdf). Mar 2019. CMU + UC-Berkeley "We introduce a self-supervised method for learning visual correspondence from unlabeled video"
+- [Scaling Human Activity Recognition to edge devices](https://arxiv.org/pdf/1903.07563v1.pdf). Mar 2019. UCSD. Looks at I3D and TSM
+- [Understanding the Limitations of CNN-based Absolute Camera Pose Regression](https://arxiv.org/pdf/1903.07504v1.pdf). Mar 2019. Chalmers University of Technology, TU Munich, ETH Zurich, Microsoft
+- [IVANET: LEARNING TO JOINTLY DETECT AND SEGMENT OBJETS WITH THE HELP OF LOCAL TOP-DOWN MODULES](https://arxiv.org/pdf/1903.07360v1.pdf). Mar 2019. Northeastern University (of Shenyang, Liaoning province, China)
+- [In Defense of Pre-trained ImageNet Architectures for Real-time Semantic Segmentation of Road-driving Images](https://arxiv.org/pdf/1903.08469v1.pdf). Mar 2019. University of Zagreb
+- [Cloze-driven Pretraining of Self-attention Networks](https://arxiv.org/pdf/1903.07785v1.pdf). Mar 2019. FAIR. "We present a new approach for pretraining a bi-directional transformer model that provides significant performance gains across a variety of language understanding problems"
+- [TICTAC: ACCELERATING DISTRIBUTED DEEP LEARNING WITH COMMUNICATION SCHEDULING](https://arxiv.org/abs/1803.03288). Mar 2018. SysML 2019. University of Illinois at UrbanaChampaign
+- [PipeDream: Fast and Efficient Pipeline Parallel DNN Training](https://arxiv.org/pdf/1806.03377.pdf). June 2018. Microsoft Research + Carnegie Mellon University + Stanford University
+- [PRIORITY-BASED PARAMETER PROPAGATION FOR DISTRIBUTED DNN TRAINING](https://www.sysml.cc/doc/2019/75.pdf). SysML 2019. University of British Columbia + Vector Institute + CMU + University of Toronto
+- [BLUECONNECT: DECOMPOSING ALL-REDUCE FOR DEEP LEARNING ON HETEROGENEOUS NETWORK HIERARCHY](https://www.sysml.cc/doc/2019/130.pdf). SysML 2019. IBM
+- [BEYOND DATA AND MODEL PARALLELISM FOR DEEP NEURAL NETWORKS](https://www.sysml.cc/doc/2019/16.pdf). SysML 2019. Stanford (Matei Zaharia)
+- [3LC: Lightweight and Effective Traffic Compression for Distributed Machine Learning](https://arxiv.org/abs/1802.07389). Feb 2018. SysML 2019. CMU + Intel
+- [CATDET: CASCADED TRACKED DETECTOR FOR EFFICIENT OBJECT DETECTION FROM VIDEO](https://arxiv.org/abs/1810.00434). Sep 2018. SysML 2019. Stanford + NVIDIA
+- [AdaScale: Towards Real-time Video Object Detection Using Adaptive Scaling](https://arxiv.org/abs/1902.02910). Feb 2019. SysML 2019. CMU
+- [Restructuring Batch Normalization to Accelerate CNN Training](https://arxiv.org/abs/1807.01702). March 2019. SysML 2019. Seoul National University + Samsung
+- [Bandana: Using Non-volatile Memory for Storing Deep Learning Models](https://arxiv.org/abs/1811.05922). Nov 2018. SysML 2019. Stanford + Facebook
+- [Mini-batch Serialization: CNN Training with Inter-layer Data Reuse](https://arxiv.org/abs/1810.00307). Sep 2018. SysML 2019. UT Austin + UMich + Duke
+- [DATA VALIDATION FOR MACHINE LEARNING](https://www.sysml.cc/doc/2019/167.pdf). SysML 2019. Google + KAIST
+- [KERNEL MACHINES THAT ADAPT TO GPUS FOR EFFECTIVE LARGE BATCH TRAINING](https://arxiv.org/abs/1806.06144). June 2018. SysML 2019. Ohio State
+- [Looking Fast and Slow: Memory-Guided Mobile Video Object Detection](https://arxiv.org/pdf/1903.10172v1.pdf). Mar 2019. Cornell + Google
+- [Adversarial Joint Image and Pose Distribution Learning for Camera Pose Regression and Refinement](https://arxiv.org/pdf/1903.06646v2.pdf). Mar 2019. Technical University of Munich + Siemens AG + Johns Hopkins University
+- [Spiking-YOLO: Spiking Neural Network for Real-time Object Detection](https://arxiv.org/pdf/1903.06530v1.pdf). Mar 2019.  Seoul National University
+- [Few-Shot Learning-Based Human Activity Recognition](https://arxiv.org/pdf/1903.10416v1.pdf). Mar 2019. UMass Amherst
+- [Fast Interactive Object Annotation with Curve-GCN](https://arxiv.org/pdf/1903.06874v1.pdf). Mar 2019. University of Toronto + Vector Institute + NVIDIA
+- [BLVD: Building A Large-scale 5D Semantics Benchmark for Autonomous Driving](https://arxiv.org/pdf/1903.06405v1.pdf). Mar 2019.  Xian Jiaotong University + Chang’an University
+- [Two-Stream Oriented Video Super-Resolution for Action Recognition](https://arxiv.org/pdf/1903.05577v1.pdf). Mar 2019. University of Science and Technology of China
+- [Activation Analysis of a Byte-Based Deep Neural Network for Malware Classification](https://arxiv.org/pdf/1903.04717v2.pdf). Mar 2019. FireEye
+- [ShapeShifter: Robust Physical Adversarial Attack on Faster R-CNN Object Detector](https://arxiv.org/pdf/1804.05810v2.pdf). Sep 2018. Georgia Tech + Intel
+- [Deep Learning on Graphs: A Survey](https://arxiv.org/pdf/1812.04202v1.pdf) Dec 2018. Tsinghua University
+- [Lipstick on a Pig: Debiasing Methods Cover up Systematic Gender Biases in Word Embeddings But do not Remove Them](https://arxiv.org/pdf/1903.03862v1.pdf). Mar 2019. Bar-Ilan University + Allen Institute for Artificial Intelligence
+- [Improving image classifiers for small datasets by learning rate adaptations](https://arxiv.org/pdf/1903.10726v2.pdf). Mar 2019. UTokyo + exMedio Inc. Faster (and therefore cheaper) training
+- [Accurate Monocular 3D Object Detection via Color-Embedded 3D Reconstruction for Autonomous Driving](https://arxiv.org/pdf/1903.11444v1.pdf). Mar 2019. Dalin University of Technology + University of Sydney
+- [Reducing the dilution: An analysis of the information sensitiveness of capsule network with a practical solution](https://arxiv.org/pdf/1903.10588v2.pdf). Mar 2019. hust.edu.cn
+- [Self-Supervised Learning via Conditional Motion Propagation](https://arxiv.org/pdf/1903.11412v1.pdf). Mar 2019. CUHK - SenseTime Joint Lab, Nanyang Technological University
+- [Deep Learning based Pedestrian Detection at Distance in Smart Cities](https://arxiv.org/pdf/1812.00876v2.pdf). Northumbria University + Imam Mohammed ibn Saud Islamic University + Lancaster
+- [Hearing your touch: A new acoustic side channel on smartphones](https://arxiv.org/pdf/1903.11137v1.pdf). Mar 2019. Soundwaves from tapping can be used to determine values being typed 
+- [Simple Applications of BERT for Ad Hoc Document Retrieval](https://arxiv.org/pdf/1903.10972v1.pdf). Mar 2019. University of Waterloo
+- [In Defense of Pre-trained ImageNet Architectures for Real-time Semantic Segmentation of Road-driving Images](https://arxiv.org/pdf/1903.08469v1.pdf). Mar 2019. University of Zagreb
+- [LaserNet: An Efficient Probabilistic 3D Object Detector for Autonomous Driving](https://arxiv.org/pdf/1903.08701v1.pdf). Mar 2019. Uber ATG
+- [All You Need is a Few Shifts: Designing Efficient Convolutional Neural Networks for Image Classification](https://arxiv.org/pdf/1903.05285v1.pdf). Mar 2019. Hikvision Research Institute
+- [[FE-Net] Progressive Sparse Local Attention for Video Object Detection](https://arxiv.org/pdf/1903.09126v2.pdf). Mar 2019. NLPR,CASIA + Horizon Robotics
+- [[OANet] An End-to-End Network for Panoptic Segmentation](https://arxiv.org/pdf/1903.05027v2.pdf). Mar 2019. Zhejiang University + Megvii Inc. (Face++) + Huazhong University of Science and Technology + Peking University + The University of Tokyo
