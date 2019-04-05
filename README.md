@@ -80,6 +80,7 @@
 - [SSD: Single Shot MultiBox Detector](https://arxiv.org/abs/1512.02325). Dec 2015 
 - [FEDERATED LEARNING FOR MOBILE KEYBOARD PREDICTION](https://arxiv.org/pdf/1811.03604v2.pdf). Feb 2019. Google.
 - [ConvNet Architecture Search for Spatiotemporal Feature Learning](https://arxiv.org/pdf/1708.05038.pdf). Aug 2017. FB + Columbia
+- [Rethinking Spatiotemporal Feature Learning: Speed-Accuracy Trade-offs in Video Classification](https://arxiv.org/pdf/1712.04851.pdf) July 2018. Google + UCSD
 
 #### Low Priority
 
