@@ -33,6 +33,9 @@
 - [Group Normalization](https://arxiv.org/abs/1803.08494). March 2018
 - [[C3D] Learning Spatiotemporal Features with 3D Convolutional Networks](https://arxiv.org/abs/1412.0767)
 - [[OFF] Optical Flow Guided Feature: A Fast and Robust Motion Representation for Video Action Recognition](https://arxiv.org/abs/1711.11152)
+- [[I3D] Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset](https://arxiv.org/abs/1705.07750). May 2017. DeepMind
+- [DistInit: Learning Video Representations without a Single Labeled Video](https://arxiv.org/pdf/1901.09244.pdf). Jan 2019. CMU + Facebook + Dartmouth + ArgoAI
+
 
 
 ## Unread Papers
