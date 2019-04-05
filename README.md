@@ -10,7 +10,7 @@
 - [Data Distillation](notes/data_distillation.md)
 - [YOLO v1](notes/yolo.md)
 
-## Read missing notes
+## Read but missing notes
 
 
 - [Fast R-CNN](https://arxiv.org/abs/1504.08083). April 2015
@@ -89,6 +89,7 @@
 - [DetNAS: Neural Architecture Search on Object Detection](https://arxiv.org/pdf/1903.10979v1.pdf). Mar 2019. Chinese Academy of Science + Megvii
 - [Large-scale interactive object segmentation with human annotators](https://arxiv.org/pdf/1903.10830v1.pdf). Mar 2019. Google
 - [TensorFlow Eager: A Multi-Stage, Python-Embedded DSL for Machine Learning](https://arxiv.org/abs/1903.01855). Feb 2019. Google Brain
+- [Compressed Video Action Recognition](https://arxiv.org/pdf/1712.00636.pdf). Dec 2017. CVPR 2018. UT Austin + Amazon + A9 + USC + CMU
 
 #### Low Priority
 
