@@ -79,7 +79,7 @@
 - [CRAFT: Complementary Recommendations Using Adversarial Feature Transformer](https://arxiv.org/abs/1804.10871). Amazon.com. April 2018.
 - [SSD: Single Shot MultiBox Detector](https://arxiv.org/abs/1512.02325). Dec 2015 
 - [FEDERATED LEARNING FOR MOBILE KEYBOARD PREDICTION](https://arxiv.org/pdf/1811.03604v2.pdf). Feb 2019. Google.
-
+- [ConvNet Architecture Search for Spatiotemporal Feature Learning](https://arxiv.org/pdf/1708.05038.pdf). Aug 2017. FB + Columbia
 
 #### Low Priority
 
