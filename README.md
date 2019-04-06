@@ -10,7 +10,7 @@
 - [Data Distillation](notes/data_distillation.md)
 - [YOLO v1](notes/yolo.md)
 
-## Read but missing notes
+## Read but no notes
 
 
 - [Fast R-CNN](https://arxiv.org/abs/1504.08083). April 2015
