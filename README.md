@@ -226,3 +226,4 @@
 - [All You Need is a Few Shifts: Designing Efficient Convolutional Neural Networks for Image Classification](https://arxiv.org/pdf/1903.05285v1.pdf). Mar 2019. Hikvision Research Institute
 - [[FE-Net] Progressive Sparse Local Attention for Video Object Detection](https://arxiv.org/pdf/1903.09126v2.pdf). Mar 2019. NLPR,CASIA + Horizon Robotics
 - [[OANet] An End-to-End Network for Panoptic Segmentation](https://arxiv.org/pdf/1903.05027v2.pdf). Mar 2019. Zhejiang University + Megvii Inc. (Face++) + Huazhong University of Science and Technology + Peking University + The University of Tokyo
+- [[CapsuleNet] Dynamic Routing Between Capsules](https://arxiv.org/pdf/1710.09829.pdf). Nov 2017. Google Brain. (Hinton)
