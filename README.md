@@ -314,5 +314,5 @@
 - [Painting on Placement: Forecasting Routing Congestion using Conditional Generative Adversarial Nets](https://arxiv.org/pdf/1904.07077v1.pdf). Apr 2019. Cornell
 - [MorphNet: Fast & Simple Resource-Constrained Structure Learning of Deep Networks](https://arxiv.org/pdf/1711.06798.pdf). Nov 2018. Google, MIT, GATech
 - [MnasNet: Platform-Aware Neural Architecture Search for Mobile](https://arxiv.org/pdf/1807.11626.pdf). July 2018. Google. 
- 
+ - [QuaterNet: A Quaternion-based Recurrent Model for Human Motion](https://arxiv.org/pdf/1805.06485.pdf). May 2018. École Polytechnique Fédérale de Lausanne, FAIR
 
