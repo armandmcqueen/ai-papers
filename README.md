@@ -322,4 +322,6 @@
 - [MnasNet: Platform-Aware Neural Architecture Search for Mobile](https://arxiv.org/pdf/1807.11626.pdf). July 2018. Google. 
 - [QuaterNet: A Quaternion-based Recurrent Model for Human Motion](https://arxiv.org/pdf/1805.06485.pdf). May 2018. École Polytechnique Fédérale de Lausanne, FAIR
 - [Dataset Distillation](https://arxiv.org/abs/1811.10959). Nov 2018. FAIR + MIT + UC Berkeley. Compress dataset into few synthetic distilled images. Train on distilled images with close to original performance.
-
+- [QuaterNet: A Quaternion-based Recurrent Model for Human Motion](https://arxiv.org/pdf/1805.06485.pdf). May 2018. École Polytechnique Fédérale de Lausanne, FAIR
+- [Scalable Logo Recognition using Proxies](https://arxiv.org/pdf/1811.08009.pdf). Nov 2018. Amazon
+- [LEARNING TO REPRESENT EDITS](https://openreview.net/pdf?id=BJl6AjC5F7). ICLR 2019. CMU + Microsoft
