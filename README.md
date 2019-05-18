@@ -35,6 +35,9 @@
 - [[OFF] Optical Flow Guided Feature: A Fast and Robust Motion Representation for Video Action Recognition](https://arxiv.org/abs/1711.11152)
 - [[I3D] Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset](https://arxiv.org/abs/1705.07750). May 2017. DeepMind
 - [DistInit: Learning Video Representations without a Single Labeled Video](https://arxiv.org/pdf/1901.09244.pdf). Jan 2019. CMU + Facebook + Dartmouth + ArgoAI
+- [What Makes a Video a Video: Analyzing Temporal Information in Video Understanding Models and Dataset](http://ai.stanford.edu/~dahuang/papers/cvpr18-fb.pdf). FAIR. CVPR 2018
+- [A Closer Look at Spatiotemporal Convolutions for Action Recognition](https://research.fb.com/publications/a-closer-look-at-spatiotemporal-convolutions-for-action-recognition/). FAIR, CVPR 2018
+
 
 
 
@@ -61,6 +64,9 @@
 - [FIXUP INITIALIZATION: RESIDUAL LEARNING WITHOUT NORMALIZATION](https://arxiv.org/pdf/1901.09321v1.pdf). Jan 2019. Work done at Facebook.
 - [Scale-Aware Trident Networks for Object Detection](https://arxiv.org/pdf/1901.01892.pdf). Mar 2019. University of Chinese Academy of Sciences, TuSimple. SotA COCO object detection
 - [Temporal Shift Module for Efficient Video Understanding](https://arxiv.org/pdf/1811.08383v1.pdf). Nov 2018. MIT
+- [NAS-FPN: Learning Scalable Feature Pyramid Architecture for Object Detection](https://arxiv.org/abs/1904.07392). Apr 2019. Google Brain.
+- [Large-Batch Training for LSTM and Beyond](https://arxiv.org/abs/1901.08256). Jan 2019. Google + UC Berkely + UCLA
+- [Reducing BERT Pre-Training Time from 3 Days to 76 Minutes](https://arxiv.org/abs/1904.00962). Apr 2019. Google + UC Berkely + UCLA. Many overlapping authors with 'Large-Batch Training for LSTM and Beyond'
 
 
 
@@ -110,7 +116,7 @@
 
 #### Unprioritized
 
-- [A Closer Look at Spatiotemporal Convolutions for Action Recognition](https://research.fb.com/publications/a-closer-look-at-spatiotemporal-convolutions-for-action-recognition/). FAIR, CVPR 2018
+
 - [CondenseNet: An Efficient DenseNet using Learned Group Convolutions](https://research.fb.com/publications/condensenet-an-efficient-densenet-using-learned-group-convolutions/). FAIR, CVPR 2018
 - [Deep Spatio-Temporal Random Fields for Efficient Video Segmentation](https://research.fb.com/publications/deep-spatio-temporal-random-fields-for-efficient-video-segmentation/). FAIR, CVPR 2018
 - [Detail-Preserving Pooling in Deep Networks](https://research.fb.com/publications/detail-preserving-pooling-in-deep-networks/). FAIR, CVPR 2018
@@ -314,5 +320,6 @@
 - [Painting on Placement: Forecasting Routing Congestion using Conditional Generative Adversarial Nets](https://arxiv.org/pdf/1904.07077v1.pdf). Apr 2019. Cornell
 - [MorphNet: Fast & Simple Resource-Constrained Structure Learning of Deep Networks](https://arxiv.org/pdf/1711.06798.pdf). Nov 2018. Google, MIT, GATech
 - [MnasNet: Platform-Aware Neural Architecture Search for Mobile](https://arxiv.org/pdf/1807.11626.pdf). July 2018. Google. 
- - [QuaterNet: A Quaternion-based Recurrent Model for Human Motion](https://arxiv.org/pdf/1805.06485.pdf). May 2018. École Polytechnique Fédérale de Lausanne, FAIR
+- [QuaterNet: A Quaternion-based Recurrent Model for Human Motion](https://arxiv.org/pdf/1805.06485.pdf). May 2018. École Polytechnique Fédérale de Lausanne, FAIR
+- [Dataset Distillation](https://arxiv.org/abs/1811.10959). Nov 2018. FAIR + MIT + UC Berkeley. Compress dataset into few synthetic distilled images. Train on distilled images with close to original performance.
 
