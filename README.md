@@ -310,7 +310,7 @@
 - [Kervolutional Neural Networks](https://arxiv.org/pdf/1904.03955v1.pdf). Apr 2019. Nanyang Technological University, State University of New York at Buffalo
 - [A Generative Map for Image-based Camera Localization](https://arxiv.org/pdf/1902.11124v3.pdf). Apr 2019. fortiss GmbH, Technical University of Munich
 - [Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression](https://arxiv.org/pdf/1902.09630v2.pdf). Apr 2019. Stanford, The University of Adelaide, Aibee Inc
-- [MINI-BATCH SERIALIZATION: CNN TRAINING WITH INTER-LAYER DATA REUSE](https://arxiv.org/pdf/1810.00307v3.pdf). Apr 2019. The University of Texas at Austin, University of Michigan, Duke Universit
+- [MINI-BATCH SERIALIZATION: CNN TRAINING WITH INTER-LAYER DATA REUSE](https://arxiv.org/pdf/1810.00307v3.pdf). Apr 2019. The University of Texas at Austin, University of Michigan, Duke University
 - [LeanResNet: A Low-cost yet Effective Convolutional Residual Networks](https://arxiv.org/pdf/1904.06952v1.pdf). Apr 2019. Ben Gurion University, Emory University, University of British Columbia
 - [Exploiting Event Log Data-Attributes in RNN Based Prediction](https://arxiv.org/pdf/1904.06895v1.pdf). Apr 2019. Aalto University, University of Helsinki,  QPR Software, Helsinki Institute for Information Technology 
 - [DuBox: No-Prior Box Objection Detection via Residual Dual Scale Detectors](https://arxiv.org/pdf/1904.06883v1.pdf). Apr 2019. Baidu
@@ -325,3 +325,244 @@
 - [QuaterNet: A Quaternion-based Recurrent Model for Human Motion](https://arxiv.org/pdf/1805.06485.pdf). May 2018. École Polytechnique Fédérale de Lausanne, FAIR
 - [Scalable Logo Recognition using Proxies](https://arxiv.org/pdf/1811.08009.pdf). Nov 2018. Amazon
 - [LEARNING TO REPRESENT EDITS](https://openreview.net/pdf?id=BJl6AjC5F7). ICLR 2019. CMU + Microsoft
+- [IMAGENET-TRAINED CNNS ARE BIASED TOWARDS TEXTURE; INCREASING SHAPE BIAS IMPROVES ACCURACY AND ROBUSTNESS](https://openreview.net/pdf?id=Bygh9j09KX). ICLR 2019. University of Tubingen
+- [A CLOSER LOOK AT DEEP LEARNING HEURISTICS: LEARNING RATE RESTARTS, WARMUP AND DISTILLATION](https://openreview.net/pdf?id=r14EOsCqKX). ICLR 2019. Salesforce Research
+- [Failing Loudly: An Empirical Study of Methods for Detecting Dataset Shift](https://arxiv.org/pdf/1810.11953.pdf). Jan 2019. Technical University of Munich, CMU
+- [Yet Another Accelerated SGD: ResNet-50 Training on ImageNet in 74.7 seconds](https://arxiv.org/pdf/1903.12650.pdf). Mar 2019. Fujitsu
+- [Similarity of Neural Network Representations Revisited](https://arxiv.org/pdf/1905.00414.pdf). ICML 2019. May 2019. Google Brain. Geoffrey Hinton.
+- [Security for Distributed Deep Neural Networks - Towards Data Confidentiality & Intellectual Property Protection](https://arxiv.org/pdf/1907.04246v1.pdf). July 2019. SAP, University of Potsdam,  City of Antibes Juan-les-Pins
+- [Which Algorithmic Choices Matter at Which Batch Sizes? Insights From a Noisy Quadratic Model](https://arxiv.org/pdf/1907.04164v1.pdf). Jul 2019. UToronto, Vector Institute, Google Brain, DeepMind
+- [Multivariate Time Series Imputation with Variational Autoencoders](https://arxiv.org/pdf/1907.04155v1.pdf). July 2019. ETH Zurich, UC Irvine
+- [The What-If Tool: Interactive Probing of Machine Learning Models](https://arxiv.org/pdf/1907.04135v1.pdf). July 2019. Google AI. 
+- [A Unified Framework of Online Learning Algorithms for Training Recurrent Neural Networks](https://arxiv.org/pdf/1907.02649v1.pdf). July 2019. NYU.
+- [Genetic Network Architecture Search](https://arxiv.org/pdf/1907.02871v1.pdf). July 2019. Tel Aviv University.
+- [The Evolved Transformer](https://arxiv.org/pdf/1901.11117.pdf). May 2019. ICML 2019. Google Brain.
+- [Making Study Populations Visible through Knowledge Graphs](https://arxiv.org/pdf/1907.04358v1.pdf). July 2019. Rensselaer Polytechnic Institute, IBM Research
+- [DOB-Net: Actively Rejecting Unknown Excessive Time-Varying Disturbances](https://arxiv.org/pdf/1907.04514v1.pdf). July 2019. University of Technology, Sydney
+- [Two-Stream Adaptive Graph Convolutional Networks for Skeleton-Based Action Recognition](https://arxiv.org/pdf/1805.07694v3.pdf). July 2019. Chinese Academy of Sciences,
+- [MODEL DEVELOPMENT PROCESS](https://arxiv.org/pdf/1907.04461v1.pdf). July 2019. Warsaw University of Technology & University of Warsaw
+- [GluonCV and GluonNLP: Deep Learning in Computer Vision and Natural Language Processing](https://arxiv.org/pdf/1907.04433v1.pdf). July 2019. UMichigan, Amazon, Hong Kong University of Science and Technology
+- [Recipe1M+: A Dataset for Learning Cross-Modal Embeddings for Cooking Recipes and Food Images](https://arxiv.org/pdf/1810.06553v2.pdf). July 2019. MIT, Qatar Computing Research Institute, Universitat Politecnica de Catalunya
+- [M3D-GAN: Multi-Modal Multi-Domain Translation with Universal Attention](https://arxiv.org/pdf/1907.04378v1.pdf). July 2019. SUNY Buffalo, Microsoft
+- [On Designing Machine Learning Models for Malicious Network Traffic Classification](https://arxiv.org/pdf/1907.04846v1.pdf). July 2019. Northeastern University
+- [Sparse Networks from Scratch: Faster Training without Losing Performance](https://arxiv.org/pdf/1907.04840v1.pdf). July 2019. UWashington
+- [BAM! Born-Again Multi-Task Networks for Natural Language Understanding](https://arxiv.org/pdf/1907.04829v1.pdf). July 2019, Google Brain, Stanford. Quoc V. Le
+- [ReQA: An Evaluation for End-to-End Answer Retrieval Models](https://arxiv.org/pdf/1907.04780v1.pdf). July 2019. Google.
+- [Analyzing and learning the language for different types of harassment](https://arxiv.org/pdf/1811.00644v2.pdf). July 2019. University of Dayton, University of Leipzig, Wright State University
+ - [Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/pdf/1812.08434v4.pdf). July 2019. Tsinghua University, Tencent
+ - [SynthCity: A large scale synthetic point cloud](https://arxiv.org/pdf/1907.04758v1.pdf). July 2019. University College London
+ - [Material Based Object Tracking in Hyperspectral Videos: Benchmark and Algorithms](https://arxiv.org/pdf/1812.04179v5.pdf). July 2019. Unknown affiliation
+ - [Label Aware Graph Convolutional Network Not All Edges Deserve Your Attention](https://arxiv.org/pdf/1907.04707v1.pdf). July 2019. Unknown affiliation
+ - [Actions Speak Louder than Goals: Valuing Player Actions in Soccer](https://arxiv.org/pdf/1802.07127v2.pdf). July 2019. SciSports, KU Leuven
+ - [Multi-Person tracking by multi-scale detection in Basketball scenarios](https://arxiv.org/pdf/1907.04637v1.pdf). July 2019. Universitat Pompeu Fabra, FC Barcelona
+ - [VIDEO ACTION RECOGNITION VIA NEURAL ARCHITECTURE SEARCHING](https://arxiv.org/pdf/1907.04632v1.pdf). July 2019. University of Oulu, Xi’an Jiaotong University
+ - [Single-Camera Basketball Tracker through Pose and Semantic Feature Fusion](https://arxiv.org/pdf/1906.02042v2.pdf). July 2019. Universitat Pompeu Fabra, FC Barcelona
+ - [Learning to Reason with Relational Video Representation for Question Answering](https://arxiv.org/pdf/1907.04553v1.pdf). July 2019. Deakin University
+ - [Multi-layer Attention Mechanism for Speech Keyword Recognition](https://arxiv.org/pdf/1907.04536v1.pdf). July 2019. Sichuan University, Rutgers University
+ - [The Role of Cooperation in Responsible AI Development](https://arxiv.org/pdf/1907.04534v1.pdf). July 2019. OpenAI
+ - [Software Engineering for Machine Learning: A Case Study](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/amershi-icse-2019_Software_Engineering_for_Machine_Learning.pdf). March 2019. Microsoft
+ - [SATNet: Bridging deep learning and logical reasoning using a differentiable satisfiability solver](https://arxiv.org/pdf/1905.12149v1.pdf). May 2019. ICML 2019. CMU, USC, Bosch Center
+for Artificial Intelligence
+- [Generative Adversarial Networks: A Survey and Taxonomy](https://arxiv.org/pdf/1906.01529v2.pdf). June 2019. Dublin City University, Intel. 
+- [Stand-Alone Self-Attention in Vision Models](https://arxiv.org/pdf/1906.05909v1.pdf). June 2019. Google Brain.
+- [Stacked Capsule Autoencoders](https://arxiv.org/pdf/1906.06818v1.pdf). June 2019. Oxford, Google Brain, DeepMind. Geoffrey Hinton.
+- [Practical Deep Learning with Bayesian Principles](https://arxiv.org/pdf/1906.02506v1.pdf). June 2019. Tokyo Institute of Technology, University of Cambridge, Indian Institute of Technology, University of Osnabrück, RIKEN Center for AI Project
+- [Visualizing and Measuring the Geometry of BERT](https://arxiv.org/pdf/1906.02715v1.pdf). June 2019. Google Research.
+- [Butterfly Transform: An Efficient FFT Based Neural Architecture Design](https://arxiv.org/pdf/1906.02256v1.pdf). June 2019. UWashington, Allen Institute for AI
+- [MMDetection: Open MMLab Detection Toolbox and Benchmark](https://arxiv.org/pdf/1906.07155v1.pdf). June 2019. The Chinese University of Hong Kong, Zhejiang University, The University of Sydney, SenseTime Research, Hong Kong University of Science and Technology, Microsoft Research Asia, Beijing Institute of Technology, Nanjing University, Huazhong University of Science and Technology, Peking University, Sun Yat-sen University, Northeastern University, Nanyang Technological University
+- [What Does BERT Look At? An Analysis of BERT’s Attention](https://arxiv.org/pdf/1906.04341v1.pdf). June 2019. Stanford, FAIR. 
+- [Self-Supervised Exploration via Disagreement](https://arxiv.org/pdf/1906.04161v1.pdf). June 2019. ICML 2019. UC Berkeley, CMU, FAIR
+- [Automated Machine Learning: State-of-The-Art and Open Challenges](https://arxiv.org/pdf/1906.02287v2.pdf). June 2019. University of Tartu, Estonia
+- [A Study of BFLOAT16 for Deep Learning Training](https://arxiv.org/pdf/1905.12322v3.pdf). June 2019. Intel, Facebook
+- [Network Deconvolution](https://arxiv.org/pdf/1905.11926v1.pdf). June 2019. UMaryland. (Remove pixel-wise and channel-wise correlation. Better convergence, no batch norm)
+- [[GROVER] Defending Against Neural Fake News](https://arxiv.org/pdf/1905.12616v1.pdf). May 2019. UWashington, Allen Institute for AI.
+- [Deep Semi-Supervised Anomaly Detection](https://arxiv.org/pdf/1906.02694v1.pdf). June 2019. Technical University of Berlin, Technical University of Kaiserslautern, Singapore University of Technology & Design, b-it Bonn-Aachen, Korea University, Max Planck Institute for Informatics, University of Southern California
+- [Deep Reinforcement Learning for Cyber Security](https://arxiv.org/pdf/1906.05799v2.pdf). June 2019. Deakin University, Harvard
+- [Is Attention Interpretable?](https://arxiv.org/pdf/1906.03731v1.pdf). June 2019. UWashington, Allen Institute for AI.
+- [PyRobot: An Open-source Robotics Framework for Research and Benchmarking](https://arxiv.org/pdf/1906.08236v1.pdf). June 2019. FAIR, CMU
+- [Language as an Abstraction for Hierarchical Deep Reinforcement Learning](https://arxiv.org/pdf/1906.07343v1.pdf). June 2019. Google Research
+- [Deep ReLU Networks Have Surprisingly Few Activation Patterns](https://arxiv.org/pdf/1906.00904v1.pdf). June 2019. FAIR, UPenn
+- [Attention Is (not) All You Need for Commonsense Reasoning](https://arxiv.org/pdf/1905.13497v1.pdf). May 2019. SAP
+- [What Kind of Language Is Hard to Language-Model?](https://arxiv.org/pdf/1906.04726v1.pdf). June 2019. Johns Hopkins University,  City University of New York, Google
+- [Does Object Recognition Work for Everyone?](https://arxiv.org/pdf/1906.02659v2.pdf). June 2019. FAIR.
+- [DeepShift: Towards Multiplication-Less Neural Networks](https://arxiv.org/pdf/1905.13298v2.pdf). June 2019. Huawei (Reduce compute required on mobile devices)
+- [GANALYZE: TOWARD VISUAL DEFINITIONS OF COGNITIVE IMAGE PROPERTIES](https://arxiv.org/pdf/1906.10112v1.pdf). June 2019. MIT
+- [From Clustering to Cluster Explanations via Neural Networks](https://arxiv.org/pdf/1906.07633v1.pdf). June 2019. Berlin Institute of Technology,  Fraunhofer Heinrich Hertz Institute
+- [Graph Convolutional Transformer: Learning the Graphical Structure of Electronic Health Records](https://arxiv.org/pdf/1906.04716v1.pdf). June 2019. Google, DeepMind
+- [Four Things Everyone Should Know to Improve Batch Normalization](https://arxiv.org/pdf/1906.03548v1.pdf). June 2019. University of Auckland
+- [Exploiting Uncertainty of Loss Landscape for Stochastic Optimization](https://arxiv.org/pdf/1905.13200v1.pdf). May 2019. UToronto
+- [Graph Normalizing Flows](https://arxiv.org/pdf/1905.13177v1.pdf). May 2019. UToronto Vector Institute, Google
+- [Emergence of Object Segmentation in Perturbed Generative Models](https://arxiv.org/pdf/1905.12663v1.pdf). May 2019. University of Bern
+- [Supervised Learning in Spiking Neural Networks with Phase-Change Memory Synapses](https://arxiv.org/pdf/1905.11929v1.pdf). May 2019. New Jersey Institute of Technology, IBM Research, Ecole Polytechnique Federale de Lausanne (EPFL).
+- [Image-based 3D Object Reconstruction: State-of-the-Art and Trends in the Deep Learning Era](https://arxiv.org/pdf/1906.06543v2.pdf). June 2019. Tianjin University,  University of Western Australia, Murdoch University, University of South Australia
+- [A Survey on Deep Learning Architectures for Image-based Depth Reconstruction](https://arxiv.org/pdf/1906.06113v1.pdf). June 2019. Murdoch University
+- [Grid R-CNN Plus: Faster and Better](https://arxiv.org/pdf/1906.05688v1.pdf). June 2019. SenseTime, CUHK, Beihang University.
+- [GluonTS: Probabilistic Time Series Models in Python](https://arxiv.org/pdf/1906.05264v2.pdf). June 2019. AWS
+- [NAS-FCOS: Fast Neural Architecture Search for Object Detection](https://arxiv.org/pdf/1906.04423v2.pdf). June 2019. Northwestern Polytechnical University, China, The University of Adelaide
+- [Analyzing the Structure of Attention in a Transformer Language Model](https://arxiv.org/pdf/1906.04284v2.pdf). June 2019. PARC, MIT CSAIL
+- [DiCENet: Dimension-wise Convolutions for Efficient Networks](https://arxiv.org/pdf/1906.03516v1.pdf). June 2019. UWashington, Allen Institute for AI (AI2).
+- [Bad Global Minima Exist and SGD Can Reach Them](https://arxiv.org/pdf/1906.02613v1.pdf). June 2019. University of Wisconsin–Madison, University of California Santa Cruz
+- [The Secrets of Machine Learning: Ten Things You Wish You Had Known Earlier to be More Effective at Data Analysis](https://arxiv.org/pdf/1906.01998v1.pdf). June 2019. Duke University
+- [Text-based Editing of Talking-head Video](https://arxiv.org/pdf/1906.01524v1.pdf). June 2019. Stanford, Max Planck Institute for Informatics, Princeton, Adobe. 
+- [Learning to solve the credit assignment problem](https://arxiv.org/pdf/1906.00889v2.pdf). June 2019. UPenn
+- [Fashion Editing with Multi-scale Attention Normalization](https://arxiv.org/pdf/1906.00884v1.pdf). June 2019. Sun Yat-sen University, Petuum Inc, ByteDance AI Lab
+- [Time Series Anomaly Detection Using Convolutional Neural Networks and Transfer Learning](https://arxiv.org/pdf/1905.13628v1.pdf). May 2019. Arundo Analytics
+- [A Lightweight Recurrent Network for Sequence Modeling](https://arxiv.org/pdf/1905.13324v1.pdf). May 2019. University of Edinburgh, University of Zurich
+- [Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels](https://arxiv.org/pdf/1905.13192v1.pdf). May 2019. CMU, Zhejiang University, MIT.
+- [Learning Navigation Subroutines by Watching Videos](https://arxiv.org/pdf/1905.12612v1.pdf). May 2019. UC Berkeley, FAIR, UIUC
+- [Unsupervised Learning from Video with Deep Neural Embeddings](https://arxiv.org/pdf/1905.11954v1.pdf). May 2019. Sanford, MIT. "We show that VIE-trained networks substantially advance the state of the art in unsupervised learning from video datastreams, both for action recognition in the Kinetics dataset, and object recognition in the ImageNet dataset."
+- [Show, Match and Segment: Joint Learning of Semantic Matching and Object Co-segmentation](https://arxiv.org/pdf/1906.05857v1.pdf). June 2019. Academia Sinica, University of California, Merced, VA Tech
+- [CVPR19 Tracking and Detection Challenge: How crowded can it get?](https://arxiv.org/pdf/1906.04567v1.pdf). June 2019. TUM Munich, University of Adelaide, ETH Zurich
+- [Distilling Object Detectors with Fine-grained Feature Imitation](https://arxiv.org/pdf/1906.03609v1.pdf). June 2019. National University of Singapore, Huawei Noah’s Ark Lab
+- [Detecting Kissing Scenes in a Database of Hollywood Films](https://arxiv.org/pdf/1906.01843v1.pdf). June 2019. Stanford
+- [Efficient 8-Bit Quantization of Transformer Neural Machine Language Translation Model](https://arxiv.org/pdf/1906.00532v2.pdf). June 2019. ICML 2019. Intel.
+- [Dimensionality compression and expansion in Deep Neural Networks](https://arxiv.org/pdf/1906.00443v2.pdf). June 2019. UWashington, Harvard, Université de Montréal
+- [Data Augmentation for Object Detection via Progressive and Selective Instance-Switching](https://arxiv.org/pdf/1906.00358v1.pdf). June 2019. Harbin Institute of Technology, China, Tianjin University, China
+- [Explainability Techniques for Graph Convolutional Networks](https://arxiv.org/pdf/1905.13686v1.pdf). May 2019. ICML 2019.  KTH (Royal Institute of Technology), Stockholm, Sweden
+- [Hierarchical Transformers for Multi-Document Summarization](https://arxiv.org/pdf/1905.13164v1.pdf). May 2019. University of Edinburgh
+- [CMRNet: Camera to LiDAR-Map Registration](https://arxiv.org/pdf/1906.10109v1.pdf). June 2019. Universita degli Studi di Milano, Albert-Ludwigs-Universitat Freiburg
+- [Modeling AGI Safety Frameworks with Causal Influence Diagrams](https://arxiv.org/pdf/1906.08663v1.pdf). June 2019. DeepMind
+- [Submodular Batch Selection for Training Deep Neural Networks](https://arxiv.org/pdf/1906.08771v1.pdf). June 2019. Indian Institute of Technology Hyderabad
+- [Cascade R-CNN: High Quality Object Detection and Instance Segmentation](https://arxiv.org/pdf/1906.09756v1.pdf). June 2019. UC San Diego. Improvements to Cascade R-CNN for segmentation + Implementations
+- [A Tensorized Transformer for Language Modeling](https://arxiv.org/pdf/1906.09777v1.pdf). June 2019. Tianjin University, Microsoft Research Asia,  Beijing Institute of Technology
+- [SkyNet: A Champion Model for DAC-SDC on Low Power Object Detection](https://arxiv.org/pdf/1906.10327v1.pdf). June 2019. Univ. of Illinois at Urbana-Champaign, IBM T. J. Watson Research Center, Inspirit IoT. Extremely light-weight (1.82 MB of params)
+- [Lifelong Learning Starting From Zero](https://arxiv.org/pdf/1906.09852v1.pdf). June 2019. Chalmers University of Technology, Dynamic Topologies Sweden AB. "We present a deep neural-network model for lifelong learning inspired by several forms of neuroplasticity."
+- [A computational model of early language acquisition from audiovisual experiences of young infants ](https://arxiv.org/pdf/1906.09832v1.pdf). June 2019. Tampere University, Finland, Aalto University, Finland.
+- [ESNet: An Efficient Symmetric Network for Real-time Semantic Segmentation](https://arxiv.org/pdf/1906.09826v1.pdf). June 2019. National Engineering Research Center of Communications and Networking, Nanjing, University of Posts and Telecommunications, Nanjing. "state-of-the-art results in terms of speed and accuracy trade-off for realtime semantic segmentation on CityScapes dataset."
+- [Emotionally-Aware Chatbots: A Survey](https://arxiv.org/pdf/1906.09774v1.pdf). June 2019. University of Turin
+- [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/pdf/1906.08237v1.pdf). June 2019. CMU, Google Brain. Quoc V. Le
+- [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/pdf/1905.11946v2.pdf). June 2019. ICML 2019. Google Brain. Quoc V. Le
+- [Follow the Attention: Combining Partial Pose and Object Motion for Fine-Grained Action Detection](https://arxiv.org/pdf/1905.04430v2.pdf). June 2019.  The University of Adelaide
+- [Gradient Noise Convolution (GNC): Smoothing Loss Function for Distributed Large-Batch SGD](https://arxiv.org/pdf/1906.10822v1.pdf). June 2019. Toshiba, The University of Tokyo, RIKEN
+- [A Framework for Evaluating Agricultural Ontologies](https://arxiv.org/pdf/1906.10450v2.pdf). May 2019. Tel-Aviv University, Ben Gurion University of the Negev
+- [SwiftNet: Using Graph Propagation as Meta-knowledge to Search Highly Representative Neural Architectures](https://arxiv.org/pdf/1906.08305v2.pdf). June 2019. Duke, Qualcomm AI Research, University of Nevada
+- [Norm-Preservation: Why Residual Networks Can Become Extremely Deep?](https://arxiv.org/pdf/1805.07477v2.pdf). June 2019. UCF
+- [Entropy-based Dynamic Time Warping Similarity Measures for Financial Time Series Analysis](https://arxiv.org/pdf/1902.09947v2.pdf). June 2019. Central University of Finance and Economics, Beijing, Southern University of Science and Technology, Guangzhou, Hefei University, University of York.
+- [Active Learning Solution on Distributed Edge Computing](https://arxiv.org/pdf/1906.10718v1.pdf). June 2019. Technical University of Denmark.
+- [Learning Fair and Transferable Representations](https://arxiv.org/pdf/1906.10673v1.pdf). June 2019. Universitá di Pisa, AWS, Istituto Italiano di Tecnologia, UCL
+- [On Multi-Agent Learning in Team Sports Games](https://arxiv.org/pdf/1906.10124v1.pdf). June 2019. ICML 2019. EA Sports
+- [Age and gender bias in pedestrian detection algorithms](https://arxiv.org/pdf/1906.10490v1.pdf). June 2019. Oxford
+- [The PhotoBook Dataset: Building Common Ground through Visually-Grounded Dialogue](https://arxiv.org/pdf/1906.01530v2.pdf). June 2019. University of Amsterdam, Tilburg University
+- [Canonicalizing Knowledge Base Literals](https://arxiv.org/pdf/1906.11180v1.pdf). June 2019. Oxford, The Alan Turing Institute, University of Oslo
+- [Learning Data Augmentation Strategies for Object Detection](https://arxiv.org/pdf/1906.11172v1.pdf). June 2019. Google Brain
+- [On the Coherence of Fake News Articles](https://arxiv.org/pdf/1906.11126v1.pdf). June 2019. University Institute of Engineering and Technology, Chandigarh, India, Queen’s University Belfast, University of Calicut.
+- [Instance Segmentation by Jointly Optimizing Spatial Embeddings and Clustering Bandwidth](https://arxiv.org/pdf/1906.11109v1.pdf). June 2019. KU Leuven.
+- [Privacy Preserving QoE Modeling using Collaborative Learning](https://arxiv.org/pdf/1906.09248v2.pdf). June 2019. Ericsson Research, Blekinge Inst. of Tech.
+- [Sharing Attention Weights for Fast Transformer](https://arxiv.org/pdf/1906.11024v1.pdf). June 2019. Northeastern University, Shenyang, China, NiuTrans Co., Kunming University of Science and Technology, CAS, Beijing.
+- [GAN-Knowledge Distillation for one-stage Object Detection](https://arxiv.org/pdf/1906.08467v3.pdf). June 2019. Startdt AI Lab, Zeusee Technology.
+- [End-to-End 3D-PointCloud Semantic Segmentation for Autonomous Driving](https://arxiv.org/pdf/1906.10964v1.pdf). June 2019. Valeo
+- [Autonomous Exploration, Reconstruction, and Surveillance of 3D Environments Aided by Deep Learning](https://arxiv.org/pdf/1809.06025v2.pdf). June 2019. UT Austin
+- [Does Learning Require Memorization? A Short Tale about a Long Tail](https://arxiv.org/pdf/1906.05271v2.pdf). June 2019. Google Brain.
+- [BAYHENN: Combining Bayesian Deep Learning and Homomorphic Encryption for Secure DNN Inference](https://arxiv.org/pdf/1906.00639v2.pdf). June 2019. Peking University, Ant Financial Services Group
+- [Small Data Challenges in Big Data Era: A Survey of Recent Progress on Unsupervised and Semi-Supervised Methods](https://arxiv.org/pdf/1903.11260v1.pdf). March 2019. Laboratory for MAchine Perception and LEarning (MAPLE lab), Huawei Cloud, University of Rochester.
+- [DFANet: Deep Feature Aggregation for Real-Time Semantic Segmentation](https://arxiv.org/pdf/1904.02216v1.pdf). Apr 2019. Megvii. "Experiments on Cityscapes and CamVid datasets demonstrate the superior performance of DFANet with 8× less FLOPs and 2× faster than the existing state-of-the-art real-time semantic segmentation methods while providing comparable accuracy"
+- [Fence GAN: Towards Better Anomaly Detection](https://arxiv.org/pdf/1904.01209v1.pdf). Apr 2019. Hwa Chong Institution. Bioinformatics Institute, Agency for Science, Technology and Research (A*STAR), National University of Singapore.
+- [Distilling Task-Specific Knowledge from BERT into Simple Neural Networks](https://arxiv.org/pdf/1903.12136v1.pdf). Mar 2019. UWaterloo
+- [FVNet: 3D Front-View Proposal Generation for Real-Time Object Detection from Point Clouds](https://arxiv.org/pdf/1903.10750v1.pdf). Mar 2019. Shanghai Jiao Tong University, Deakin University, Youtu Lab [Tencent]
+- [Robust Neural Networks using Randomized Adversarial Training](https://arxiv.org/pdf/1903.10219v1.pdf). Mar 2019. Universite Paris-Dauphine, Waveston, Universite Paris-Saclay, Facebook AI Research
+- [Dynamics of Pedestrian Crossing Decisions Based on Vehicle Trajectories in Large-Scale Simulated and Real-World Data](https://arxiv.org/pdf/1904.04202v1.pdf). Apr 2019. MIT, Toyota Collaborative Safety Research Center
+- [ASAP: Architecture Search, Anneal and Prune](https://arxiv.org/pdf/1904.04123v1.pdf). Apr 2019. Alibaba, Tel-Aviv University
+- [Pyramid Mask Text Detector](https://arxiv.org/pdf/1903.11800v1.pdf). Mar 2019. SenseTime, CUHK, Beihang University
+- [Self-Supervised Learning via Conditional Motion Propagation](https://arxiv.org/pdf/1903.11412v2.pdf). Apr 2019. CUHK-SenseTime Joint Lab, Nanyang Technological University.
+- [Scalable Deep Learning on Distributed Infrastructures: Challenges, Techniques and Tools](https://arxiv.org/pdf/1903.11314v1.pdf). Mar 2019. Technical University Munich (TUM)
+- [Training Quantized Network with Auxiliary Gradient Module](https://arxiv.org/pdf/1903.11236v1.pdf). Mar 2019. The University of Adelaide, Australian Centre for Robotic Vision, South China University of Technology 
+- [Few-Shot Learning-Based Human Activity Recognition](https://arxiv.org/pdf/1903.10416v1.pdf). Mar 2019. University of Massachusetts Amherst
+- [ShopSign: a Diverse Scene Text Dataset of Chinese Shop Signs in Street Views](https://arxiv.org/pdf/1903.10412v1.pdf). Mar 2019. Henan University, North China University of Water, South China University of Technology
+- [MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning](https://arxiv.org/pdf/1903.10258v2.pdf). Apr 2019. Hong Kong University of Science and Technology, Tsinghua University, Megvii Inc (Face++), Huazhong University of Science and Technology
+- [Meta Filter Pruning to Accelerate Deep Convolutional Neural Networks](https://arxiv.org/pdf/1904.03961v1.pdf). Apr 2019. University of Technology Sydney, JD.com
+- [ShapeMask: Learning to Segment Novel Objects by Refining Shape Priors](https://arxiv.org/pdf/1904.03239v1.pdf). Apr 2019. Google Brain, UC Berkeley
+- [High-level Semantic Feature Detection: A New Perspective for Pedestrian Detection](https://arxiv.org/pdf/1904.02948v1.pdf). Apr 2019. National University of Defense Technology (Changsha, China), Chinese Academy of Sciences, Inception Institute of Artificial Intelligence (IIAI, Abu Dhabi, UAE), Horizon Robotics Inc. (Beijing, China)
+- [FLightNNs: Lightweight Quantized Deep Neural Networks for Fast and Accurate Inference](https://arxiv.org/pdf/1904.02835v1.pdf). Apr 2019. CMU
+- [A Systematic Literature Review about the impact of Artificial Intelligence on Autonomous Vehicle Safety](https://arxiv.org/pdf/1904.02697v1.pdf). Apr 2019.  Polytechnic School of University of São Paulo, Ericsson
+- [UU-Nets Connecting Discriminator and Generator for Image to Image Translation](https://arxiv.org/pdf/1904.02675v1.pdf). Apr 2019. National University of Singapore.
+- [On Direct Distribution Matching for Adapting Segmentation Networks](https://arxiv.org/pdf/1904.02657v1.pdf). Apr 2019. CentraleSupelec-CNRS-Universite Paris Sud, ETS (Canada), Universite de Montreal 
+- [Signal-to-Noise Ratio: A Robust Distance Metric for Deep Metric Learning](https://arxiv.org/pdf/1904.02616v1.pdf). Apr 2019. Beijing University of Posts and Telecommunications, Didi Chuxing, Syracuse University
+- [White-to-Black: Efficient Distillation of Black-Box Adversarial Attacks](https://arxiv.org/pdf/1904.02405v1.pdf). Apr 2019. Tel-Aviv University, AI2
+- [Modeling Vocabulary for Big Code Machine Learning](https://arxiv.org/pdf/1904.01873v1.pdf). Apr 2019. Free University of Bozen-Bolzano
+- [Patchwork: A Patch-wise Attention Network for Efficient Object Detection and Segmentation in Video Streams](https://arxiv.org/pdf/1904.01784v1.pdf). Apr 2019. Google.
+- [Boosting segmentation with weak supervision from image-to-image translation](https://arxiv.org/pdf/1904.01636v2.pdf). Apr 2019.Ecole Polytechnique de Montreal, Mila, NVIDIA
+- [Habitat: A Platform for Embodied AI Research](https://arxiv.org/pdf/1904.01201v1.pdf). Apr 2019. Facebook AI Research, Facebook Reality Labs, Georgia Institute of Technology, Simon Fraser University, Intel, UC Berkeley 
+- [Res2Net: A New Multi-scale Backbone Architecture](https://arxiv.org/pdf/1904.01169v1.pdf). Apr 2019. Nankai University, UC Merced, Oxford
+- [Video Object Segmentation using Space-Time Memory Networks](https://arxiv.org/pdf/1904.00607v1.pdf). Apr 2019. Yonsei University, Adobe Research
+- [BENCHMARKING NEURAL NETWORK ROBUSTNESS TO COMMON CORRUPTIONS AND PERTURBATIONS](https://arxiv.org/pdf/1903.12261v1.pdf). Mar 2019. Oregon State University, UC Berkeley.
+- [Large-scale interactive object segmentation with human annotators](https://arxiv.org/pdf/1903.10830v1.pdf). Mar 2019. Google. 
+- [Reducing BERT Pre-Training Time from 3 Days to 76 Minutes](https://arxiv.org/pdf/1904.00962v1.pdf). Apr 2019. Google, UC Berkeley, UCLA
+- [SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition](https://arxiv.org/pdf/1904.08779.pdf). Apr 2019. Google Brain. Quoc V. Le
+- [Image2StyleGAN: How to Embed Images Into the StyleGAN Latent Space?](https://arxiv.org/pdf/1904.03189v1.pdf). Apr 2019. KAUST
+- [DADA: Depth-aware Domain Adaptation in Semantic Segmentation](https://arxiv.org/pdf/1904.01886v2.pdf). Apr 2019. Valeo, Sorbonne University. 
+- [HoloGAN: Unsupervised learning of 3D representations from natural images](https://arxiv.org/pdf/1904.01326v1.pdf). Apr 2019.  University of Bath, Lambda Labs, Twitter
+- [Cascade Feature Aggregation for Human Pose Estimation](https://arxiv.org/pdf/1902.07837v2.pdf). Apr 2019. Ping An Technology (Shenzhen) Co
+- [Show, Attend and Translate: Unpaired Multi-Domain Image-to-Image Translation with Visual Attention](https://arxiv.org/pdf/1811.07483v2.pdf). Apr 2019. Shanghai Jiao Tong University
+- [Referring to Objects in Videos using Spatio-Temporal Identifying Descriptions](https://arxiv.org/pdf/1904.03885v1.pdf). Apr 2019. UMaryland.
+- [TensorMask: A Foundation for Dense Object Segmentation](https://arxiv.org/pdf/1903.12174v1.pdf). Mar 2019. FAIR. Xinlei Chen + Ross Girshick + Kaiming He + Piotr Dollar
+- [Libra R-CNN: Towards Balanced Learning for Object Detection](https://arxiv.org/pdf/1904.02701v1.pdf). Apr 2019. Zhejiang University CUHK, SenseTime Research, The University of Sydney. Code available.
+- [T-Net: Parametrizing Fully Convolutional Nets with a Single High-Order Tensor](https://arxiv.org/pdf/1904.02698v1.pdf). Apr 2019. Samsung
+- [YOLACT Real-time Instance Segmentation](https://arxiv.org/pdf/1904.02689v1.pdf). Apr 2019. UC Davis
+- [Fine-tune BERT for Extractive Summarization](https://arxiv.org/pdf/1903.10318v1.pdf). Mar 2019. University of Edinburgh
+- [Improving image classifiers for small datasets by learning rate adaptations](https://arxiv.org/pdf/1903.10726v2.pdf). Mar 2019. University of Tokyo, exMedio Inc.
+- [FoveaBox: Beyond Anchor-based Object Detector](https://arxiv.org/pdf/1904.03797v1.pdf). Apr 2019. Tsinghua University, ByteDance, UPenn
+- [Fast video object segmentation with Spatio-Temporal GANs](https://arxiv.org/pdf/1903.12161v1.pdf). Mar 2019. ETH Zurich, CSIC-UPC
+- [ThunderNet: Towards Real-time Generic Object Detection](https://arxiv.org/pdf/1903.11752v1.pdf). Mar 2019. National University of Defense Technology, Megvii Inc. (Face++)
+- [Looking Fast and Slow: Memory-Guided Mobile Video Object Detection](https://arxiv.org/pdf/1903.10172v1.pdf). Mar 2019. Cornell, Google.
+- [FCOS: Fully Convolutional One-Stage Object Detection](https://arxiv.org/pdf/1904.01355v2.pdf). Apr 2019. The University of Adelaide
+- [Accurate Monocular 3D Object Detection via Color-Embedded 3D Reconstruction for Autonomous Driving](https://arxiv.org/pdf/1903.11444v2.pdf). Apr 2019. Dalian University of Technology, The University of Sydney
+- [Video Relationship Reasoning using Gated Spatio-Temporal Energy Graph](https://arxiv.org/pdf/1903.10547v2.pdf). Mar 2019. Carnegie Mellon University, AI2, University of Washington
+- [Dense Intrinsic Appearance Flow for Human Pose Transfer](https://arxiv.org/pdf/1903.11326v1.pdf). Mar 2019. CUHK-SenseTime Joint Lab, CMU, Nanyang Technological University
+- [DetNAS: Neural Architecture Search on Object Detection](https://arxiv.org/pdf/1903.10979v1.pdf). Mar 2019. Chinese Academy of Sciences, Megvii Inc
+- [Spatiotemporal CNN for Video Object Segmentation](https://arxiv.org/pdf/1904.02363v1.pdf). Apr 2019. UCAS, JD Digits, CAS
+- [FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation](https://arxiv.org/pdf/1903.11816v1.pdf). Mar 2019.  Chinese Academy of Sciences, Deepwise AI Lab.
+- [GS3D: An Efficient 3D Object Detection Framework for Autonomous Driving](https://arxiv.org/pdf/1903.10955v2.pdf). Mar 2019. CUHK, SenseTime Research, The University of Sydney, Beihang University
+- [Adaptive NMS: Refining Pedestrian Detection in a Crowd](https://arxiv.org/pdf/1904.03629v1.pdf). Apr 2019. Beihang University
+- [A CLOSER LOOK AT FEW-SHOT CLASSIFICATION](https://arxiv.org/pdf/1904.04232v1.pdf). Apr 2019. ICLR 2019. CMU, GATech, VATech, National Taiwan University
+- [Relational Action Forecasting](https://arxiv.org/pdf/1904.04231v1.pdf). Apr 2019. Google, UMaryland
+- [Exploring Randomly Wired Neural Networks for Image Recognition](https://arxiv.org/pdf/1904.01569v2.pdf). Apr 2019. FAIR. Saining Xie + Alexander Kirillov + Ross Girshick + Kaiming He
+- [DPOD: 6D Pose Object Detector and Refiner](https://arxiv.org/pdf/1902.11020v2.pdf). Apr 2019. TUM, Siemens Corporate Technology
+- [Memory In Memory: A Predictive Neural Network for Learning Higher-Order Non-Stationarity from Spatiotemporal Dynamics](https://arxiv.org/pdf/1811.07490v2.pdf). Apr 2019. Tsinghua University.
+- [Unsupervised learning of action classes with continuous temporal embedding](https://arxiv.org/pdf/1904.04189v1.pdf). University of Bonn, MIT-IMB Watson Lab
+- [Accelerated Neural Networks on OpenCL Devices Using SYCL-DNN](https://arxiv.org/pdf/1904.04174v1.pdf). IWOCL 19, Codeplay Software
+- [MOTS: Multi-Object Tracking and Segmentation](https://arxiv.org/pdf/1902.03604v2.pdf). Apr 2019. RWTH Aachen University, MPI for Intelligent Systems and University of Tubingen
+- [Learning GAN fingerprints towards Image Attribution](https://arxiv.org/pdf/1811.08180v2.pdf). Apr 2019. UMaryland, Max Planck Institute for Informatics, CISPA Helmholtz Center for Information Security
+- [Pose2Seg: Detection Free Human Instance Segmentation](https://arxiv.org/pdf/1803.10683v3.pdf). Apr 2019. Tsinghua University, BNRist, Cardiff University, Tencent AI Lab
+- [Weakly Supervised Semantic Segmentation of Satellite Images](https://arxiv.org/pdf/1904.03983v1.pdf). Apr 2019. Qwant Research
+- [Machine Learning for Forecasting Mid Price Movement using Limit Order Book Data](https://arxiv.org/pdf/1809.07861v2.pdf). Apr 2019. Aristotle University of Thessaloniki, Tampere University of Technology, Aarhus University
+- [Kervolutional Neural Networks](https://arxiv.org/pdf/1904.03955v1.pdf). Apr 2019. Nanyang Technological University, SUNY Buffalo
+- [A Generative Map for Image-based Camera Localization](https://arxiv.org/pdf/1902.11124v3.pdf). Apr 2019. fortiss GmbH, TUM
+- [Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression](https://arxiv.org/pdf/1902.09630v2.pdf). Apr 2019. Stanford, The University of Adelaide, Aibee Inc
+- [MINI-BATCH SERIALIZATION: CNN TRAINING WITH INTER-LAYER DATA REUSE](https://arxiv.org/pdf/1810.00307v3.pdf). Apr 2019. SysML 2019. UT Austin, UMich, Duke.
+- [LeanResNet: A Low-cost yet Effective Convolutional Residual Networks](https://arxiv.org/pdf/1904.06952v1.pdf). Apr 2019. Ben Gurion University, Emory University, University of British
+Columbia
+- [Human-Guided Learning of Column Networks: Augmenting Deep Learning with Advice](https://arxiv.org/pdf/1904.06950v1.pdf). Apr 2019. UT Dallas
+- [Exploiting Event Log Data-Attributes in RNN Based Prediction](https://arxiv.org/pdf/1904.06895v1.pdf). Apr 2019. Aalto University, University of Helsinki, QPR Software, HIIT Helsinki Institute for Information Technology
+- [DuBox: No-Prior Box Objection Detection via Residual Dual Scale Detectors](https://arxiv.org/pdf/1904.06883v1.pdf). Apr 2019. Baidu.
+- [Improving interactive reinforcement learning: What makes a good teacher?](https://arxiv.org/pdf/1904.06879v1.pdf). Apr 2019. University of Hamburg, Universidad Central de Chile, Osaka University
+- [Optimized Skeleton-based Action Recognition via Sparsified Graph Regression](https://arxiv.org/pdf/1811.12013v2.pdf). Apr 2019. Peking University
+- [Reinforcement Learning with Probabilistic Guarantees for Autonomous Driving](https://arxiv.org/pdf/1904.07189v1.pdf). Apr 2019. Stanford, KTH Royal Institute of Technology, Honda Research Institute.
+- [Scene-LSTM: A Model for Human Trajectory Prediction](https://arxiv.org/pdf/1808.04018v2.pdf). Apr 2019. University of Colorado Denver
+- [AttoNets: Compact and Efficient Deep Neural Networks for the Edge via Human-Machine Collaborative Design](https://arxiv.org/pdf/1903.07209v2.pdf). Apr 2019. UWaterloo, Waterloo Artificial Intelligence Institute, DarwinAI Corp.
+- [Painting on Placement: Forecasting Routing Congestion using Conditional Generative Adversarial Nets](https://arxiv.org/pdf/1904.07077v1.pdf). Apr 2019. Cornell.
+- [From Bilingual to Multilingual Neural Machine Translation by Incremental Training](https://arxiv.org/pdf/1907.00735v2.pdf). July 2019. Universitat Politecnica de Catalunya
+- [Meet Up! A Corpus of Joint Activity Dialogues in a Visual Environment](https://arxiv.org/pdf/1907.05084v1.pdf). July 2019. University of Potsdam, Bielefeld University
+- [A Two-Stage Method for Text Line Detection in Historical Documents](https://arxiv.org/pdf/1802.03345v2.pdf). July 2019. University of Rostock
+- [Wasserstein-Fisher-Rao Document Distance](https://arxiv.org/pdf/1904.10294v2.pdf). July 2019. Tsinghua University
+- [BlazeFace: Sub-millisecond Neural Face Detection on Mobile GPUs](https://arxiv.org/pdf/1907.05047v1.pdf). July 2019. Google Research
+- [Making AI Forget You: Data Deletion in Machine Learning](https://arxiv.org/pdf/1907.05012v1.pdf). July 2019. Stanford.
+- [Semi-supervised Feature-Level Attribute Manipulation for Fashion Image Retrieval](https://arxiv.org/pdf/1907.05007v1.pdf), July 2019. Search Solutions Inc. (Korea),  Naver Corp. (Korea)
+- [Two-stream Spatiotemporal Feature for Video QA Task](https://arxiv.org/pdf/1907.05006v1.pdf). July 2019. Unknown affiliation
+- [Object Detection in Video with Spatial-temporal Context Aggregation](https://arxiv.org/pdf/1907.04988v1.pdf). July 2019. Huazhong University of Science and Technology, Horizon Robotics
+- [SocialGCN: An Efficient Graph Convolutional Network based Model for Social Recommendation](https://arxiv.org/pdf/1811.02815v2.pdf). July 2019. Hefei University of Technology, Missouri University of Science and Technology, Microsoft Research Asia.
+- [GraphSAINT: Graph Sampling Based Inductive Learning Method](https://arxiv.org/pdf/1907.04931v1.pdf). July 2019. USC, US Army Research Lab-West
+- [Massively Multilingual Neural Machine Translation in the Wild: Findings and Challenges](https://arxiv.org/pdf/1907.05019.pdf). July 2019. Google AI
+- [Privileged Features Distillation for E-Commerce Recommendations](https://arxiv.org/pdf/1907.05171v1.pdf). July 2019. Alibaba
+- [Time2Vec: Learning a Vector Representation of Time](https://arxiv.org/pdf/1907.05321v1.pdf). July 2019. Borealis AI
+- [Language Modeling with Deep Transformers](https://arxiv.org/pdf/1905.04226v2.pdf). July 2019. RWTH Aachen University, AppTek GmbH
+- [On-field player workload exposure and knee injury risk monitoring via deep learning](https://arxiv.org/pdf/1809.08016v3.pdf). July 2019. The University of Western Australia, Griffith University, Auckland University of Technology
+- [Weakly Supervised Person Re-ID: Differentiable Graphical Learning and A New Benchmark](https://arxiv.org/pdf/1904.03845v2.pdf). July 2019. Sun Yat-sen University, Guangzhou.
+- [Learning to learn with quantum neural networks via classical neural networks](https://arxiv.org/pdf/1907.05415v1.pdf). July 2019. Google, University of Waterloo, UMich.
+- [Incrementalizing RASA’s Open-Source Natural Language Understanding Pipeline](https://arxiv.org/pdf/1907.05403v1.pdf). July 2019. Boise State University.
+- [Performance Boundary Identification for the Evaluation of Automated Vehicles using Gaussian Process Classification](https://arxiv.org/pdf/1907.05364v1.pdf). July 2019. Coventry University
+- [Adversarial Objects Against LiDAR-Based Autonomous Driving Systems](https://arxiv.org/pdf/1907.05418v1.pdf). July 2019. UMich, Baidu, University of Illinois at Urbana-Champaign
+- [Double-Head RCNN: Rethinking Classification and Localization for Object Detection](https://arxiv.org/pdf/1904.06493.pdf). May 2019. Northeastern University, Microsoft
+- [Modern Deep Reinforcement Learning Algorithms](https://arxiv.org/pdf/1906.10025v1.pdf). June 2019. Closer to short textbook than paper.
+- [Encoding Database Schemas with Relation-Aware Self-Attention for Text-to-SQL Parsers](https://arxiv.org/pdf/1906.11790v1.pdf). June 2019. UC Berkeley
+- [Stolen Memories: Leveraging Model Memorization for Calibrated White-Box Membership Inference](https://arxiv.org/pdf/1906.11798v1.pdf). June 2019. CMU
+- [Fast Training of Sparse Graph Neural Networks on Dense Hardware](https://arxiv.org/pdf/1906.11786v1.pdf). June 2019. University of Cambridge, MPI Tübingen, Google Brain, DeepMind
