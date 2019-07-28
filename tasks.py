@@ -109,21 +109,20 @@ def identify_dupes(titles, verbose=False):
     return dupes
 
 
+@task
+def list_dupes(c):
+    """List duplicate paper entries in README.md"""
+    identify_dupes([entry[0] for entry in readme_paper_entries()], verbose=True)
+
 
 @task
 def dedupe(c):
-    # entries =
-    # titles =
-    # dupes = identify_dupes(titles)
-    # print("------")
-    # repeat_dupes = identify_dupes(dupes)
-    #
+    """Remove duplicate paper entries from README.md"""
     dupes = identify_dupes([entry[0] for entry in readme_paper_entries()])
 
     dedupe_map = {}
     for dupe in dupes:
         dedupe_map[dupe] = 0
-
 
     deduped_lines = []
     lines = readme_lines()
