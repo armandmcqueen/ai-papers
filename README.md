@@ -128,7 +128,7 @@
 
 
 #### To Read
-
+- [RetinaMask: Learning to predict masks improves state-of-the-art single-shot detection for free](https://arxiv.org/pdf/1901.03353.pdf). Jan 2019. UNC Chapel Hill.
 - [Optimal Algorithms for Non-Smooth Distributed Optimization in Networks](https://arxiv.org/abs/1806.00291). NeurIPS 2018 best paper
 - [SimpleDet: A Simple and Versatile Distributed Framework for Object Detection and Instance Recognition](https://arxiv.org/pdf/1903.05831.pdf). Mar 2019. MXNet (w/ extra C++ ops) object detection development framework.
 - [ADAPTIVE COMMUNICATION STRATEGIES TO ACHIEVE THE BEST ERROR-RUNTIME TRADE-OFF IN LOCAL-UPDATE SGD](https://arxiv.org/pdf/1810.08313.pdf). Mar 2019. SysML. CMU
