@@ -564,9 +564,6 @@
 - [Encoding Database Schemas with Relation-Aware Self-Attention for Text-to-SQL Parsers](https://arxiv.org/pdf/1906.11790v1.pdf). June 2019. UC Berkeley
 - [Stolen Memories: Leveraging Model Memorization for Calibrated White-Box Membership Inference](https://arxiv.org/pdf/1906.11798v1.pdf). June 2019. CMU
 - [Fast Training of Sparse Graph Neural Networks on Dense Hardware](https://arxiv.org/pdf/1906.11786v1.pdf). June 2019. University of Cambridge, MPI Tübingen, Google Brain, DeepMind
-
-
-
 - [VideoBERT: A Joint Model for Video and Language Representation Learning](https://arxiv.org/pdf/1904.01766.pdf). Apr 2019. Google
 - [DEEP MULTI-SCALE VIDEO PREDICTION BEYOND MEAN SQUARE ERROR](https://arxiv.org/pdf/1511.05440.pdf). Nov 2015. ICLR 2016. NYU, FAIR. Yann LeCun
 - [Zoom to Learn, Learn to Zoom](https://arxiv.org/pdf/1905.05169.pdf). May 2019. UC Berkeley, HKUST, Intel Labs
@@ -634,10 +631,6 @@
 - [Generating Long Sequences with Sparse Transformers](https://arxiv.org/pdf/1904.10509v1.pdf). Apr 2019. OpenAI
 - [Billion-scale semi-supervised learning for image classification](https://arxiv.org/pdf/1905.00546v1.pdf). May 2019. Facebook AI. "one billion unlabelled images, our learned vanilla ResNet-50 achieves 81.2% top-1 accuracy on Imagenet benchmark."
 - [Single Image Portrait Relighting](https://arxiv.org/pdf/1905.00824v1.pdf). May 2019. UC San Diego, Google
-
-
-
-
 - [Do Transformer Attention Heads Provide Transparency in Abstractive Summarization?](https://arxiv.org/pdf/1907.00570v1.pdf). July 2019. University of Amsterdam, De Persgroep
 - [Learning Representations from Imperfect Time Series Data via Tensor Rank Regularization](https://arxiv.org/pdf/1907.01011v1.pdf). July 2019. CMU, , RIKEN Center for Artificial Intelligence Project
 - [REPRESENTATION, EXPLORATION AND RECOMMENDATION OF MUSIC PLAYLISTS](https://arxiv.org/pdf/1907.01098v1.pdf). July 2019. Arizona State University
@@ -670,9 +663,6 @@
 - [Improved local search for graph edit distance](https://arxiv.org/pdf/1907.02929v1.pdf). July 2019. Normandie Univ, Free University of Bozen-Bolzano
 - [Visus: An Interactive System for Automatic Machine Learning Model Building and Curation](https://arxiv.org/pdf/1907.02889v1.pdf). July 2019. NYU
 - [Multi-lingual Intent Detection and Slot Filling in a Joint BERT-based Model](https://arxiv.org/pdf/1907.02884v1.pdf). July 2019. Almawave
-
-
-
 - [SCOPS: Self-Supervised Co-Part Segmentation](https://arxiv.org/pdf/1905.01298v1.pdf). May 2019. UC Merced, NVIDIA
 - [Seamless Scene Segmentation](https://arxiv.org/pdf/1905.01220v1.pdf). May 2019. Mapilllary. State-of-the-art results on Cityscapes, Indian Driving Dataset and Mapillary Vistas
 - [26ms Inference Time for ResNet-50: Towards Real-Time Execution of all DNNs on Smartphone](https://arxiv.org/pdf/1905.00571v1.pdf). May 2019. ICML 2019. College of William & Mary, Northeastern. "CADNN outperforms all the state-of-the-art dense DNN execution frameworks like TensorFlow Lite and TVM"
@@ -775,9 +765,6 @@
 - [Green AI](https://arxiv.org/pdf/1907.10597v2.pdf). July 2019. AI^2, CMU, UWashington. Huge computational costs has environmental impact. Green AI suggest adding efficiency as an evaluation criterion and reporting price of development and running models. [HighPri]
 - [An Effective Approach to Unsupervised Machine Translation](https://arxiv.org/pdf/1902.01313v2.pdf). July 2019. University of the Basque Country
 - [Benchmarking TPU, GPU, and CPU Platforms for Deep Learning](https://arxiv.org/pdf/1907.10701v1.pdf). July 2019. Harvard. [HighPri]
-
-
-
 - [Self-Supervised Vision-Based Detection of the Active Speaker as Support for Socially-Aware Language Acquisition](https://arxiv.org/pdf/1711.08992v2.pdf). July 2019. USC, KTH Royal Institute of Technology NTNU Norwegian University of Science and Technology
 - [Querying Knowledge via Multi-Hop English Questions](https://arxiv.org/pdf/1907.08176v1.pdf). July 2019. Stony Brook University.
 - [OCC: A Smart Reply System for Eicient In-App Communications](https://arxiv.org/pdf/1907.08167v1.pdf). July 2019. Uber.  OCC=one-click-chat
@@ -852,10 +839,14 @@
 - [Sparse Networks from Scratch: Faster Training without Losing Performance](https://arxiv.org/pdf/1907.04840v1.pdf). July 2019. UWashington
 - [Adversarial Objects Against LiDAR-Based Autonomous Driving Systems](https://arxiv.org/pdf/1907.05418v1.pdf). July 2019. University of Michigan, Baidu, University of Illinois at Urbana-Champaign
 - [R-TRANSFORMER: RECURRENT NEURAL NETWORK ENHANCED TRANSFORMER](https://arxiv.org/pdf/1907.05572.pdf). July 2019. Michigan State University, TAL Education Group [HighPri]
-
-
-
-
+- [Understanding Neural Networks via Feature Visualization: A survey](https://arxiv.org/pdf/1904.08939v1.pdf). Apr 2019. Auburn University, Uber AI Labs, University of Wyoming. [HighPri]
+- [Neuroscore: A Brain-inspired Evaluation Metric for Generative Adversarial Networks](https://arxiv.org/pdf/1905.04243v1.pdf). May 2019. Dublin City University, Intel. 
+- [EdgeSegNet: A Compact Network for Semantic Segmentation](https://arxiv.org/pdf/1905.04222v1.pdf). May 2019. ICML 2019. University of Waterloo, DarwinAI Corp., Waterloo Artificial Intelligence Institute. "EdgeSegNet is well-suited for low-power edge scenarios"
+- [Learning to Parse Wireframes in Images of Man-Made Environments](). CVPR 2018. ShanghaiTech University, The Pennsylvania State University, UC Berkeley. "The wireframe (see Fig. 1) contains all salient straight lines and their junctions of the scene that encode efficiently and accurately large-scale geometry and object shapes."
+- [End-to-End Wireframe Parsing](https://arxiv.org/pdf/1905.03246v1.pdf). May 2019. UC Berkeley.
+- [Learning to Reconstruct 3D Manhattan Wireframes from a Single Image](https://arxiv.org/pdf/1905.07482.pdf). May 2019. UC Berkeley, Adobe Research
+- [UNDERSTANDING ATTENTION IN GRAPH NEURAL NETWORKS](https://arxiv.org/pdf/1905.02850v1.pdf). May 2019. ICLR 2019 Workshop on Representation Learning on Graphs and Manifolds. University of Guelph, Vector Institute for Artificial Intelligence, Canada CIFAR AI Chair
+- [MULTIMODAL SEMANTIC ATTENTION NETWORK FOR VIDEO CAPTIONING](https://arxiv.org/pdf/1905.02963v1.pdf). May 2019. University of Science and Technology of China, CAS, CAS Center for Excellence in Brain Science and Intelligence Technology
 
 
 
