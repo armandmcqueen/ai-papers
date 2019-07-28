@@ -349,20 +349,19 @@
 - [BAM! Born-Again Multi-Task Networks for Natural Language Understanding](https://arxiv.org/pdf/1907.04829v1.pdf). July 2019, Google Brain, Stanford. Quoc V. Le
 - [ReQA: An Evaluation for End-to-End Answer Retrieval Models](https://arxiv.org/pdf/1907.04780v1.pdf). July 2019. Google.
 - [Analyzing and learning the language for different types of harassment](https://arxiv.org/pdf/1811.00644v2.pdf). July 2019. University of Dayton, University of Leipzig, Wright State University
- - [Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/pdf/1812.08434v4.pdf). July 2019. Tsinghua University, Tencent
- - [SynthCity: A large scale synthetic point cloud](https://arxiv.org/pdf/1907.04758v1.pdf). July 2019. University College London
- - [Material Based Object Tracking in Hyperspectral Videos: Benchmark and Algorithms](https://arxiv.org/pdf/1812.04179v5.pdf). July 2019. Unknown affiliation
- - [Label Aware Graph Convolutional Network Not All Edges Deserve Your Attention](https://arxiv.org/pdf/1907.04707v1.pdf). July 2019. Unknown affiliation
- - [Actions Speak Louder than Goals: Valuing Player Actions in Soccer](https://arxiv.org/pdf/1802.07127v2.pdf). July 2019. SciSports, KU Leuven
- - [Multi-Person tracking by multi-scale detection in Basketball scenarios](https://arxiv.org/pdf/1907.04637v1.pdf). July 2019. Universitat Pompeu Fabra, FC Barcelona
- - [VIDEO ACTION RECOGNITION VIA NEURAL ARCHITECTURE SEARCHING](https://arxiv.org/pdf/1907.04632v1.pdf). July 2019. University of Oulu, Xi’an Jiaotong University
- - [Single-Camera Basketball Tracker through Pose and Semantic Feature Fusion](https://arxiv.org/pdf/1906.02042v2.pdf). July 2019. Universitat Pompeu Fabra, FC Barcelona
- - [Learning to Reason with Relational Video Representation for Question Answering](https://arxiv.org/pdf/1907.04553v1.pdf). July 2019. Deakin University
- - [Multi-layer Attention Mechanism for Speech Keyword Recognition](https://arxiv.org/pdf/1907.04536v1.pdf). July 2019. Sichuan University, Rutgers University
- - [The Role of Cooperation in Responsible AI Development](https://arxiv.org/pdf/1907.04534v1.pdf). July 2019. OpenAI
- - [Software Engineering for Machine Learning: A Case Study](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/amershi-icse-2019_Software_Engineering_for_Machine_Learning.pdf). March 2019. Microsoft
- - [SATNet: Bridging deep learning and logical reasoning using a differentiable satisfiability solver](https://arxiv.org/pdf/1905.12149v1.pdf). May 2019. ICML 2019. CMU, USC, Bosch Center
-for Artificial Intelligence
+- [Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/pdf/1812.08434v4.pdf). July 2019. Tsinghua University, Tencent
+- [SynthCity: A large scale synthetic point cloud](https://arxiv.org/pdf/1907.04758v1.pdf). July 2019. University College London
+- [Material Based Object Tracking in Hyperspectral Videos: Benchmark and Algorithms](https://arxiv.org/pdf/1812.04179v5.pdf). July 2019. Unknown affiliation
+- [Label Aware Graph Convolutional Network Not All Edges Deserve Your Attention](https://arxiv.org/pdf/1907.04707v1.pdf). July 2019. Unknown affiliation
+- [Actions Speak Louder than Goals: Valuing Player Actions in Soccer](https://arxiv.org/pdf/1802.07127v2.pdf). July 2019. SciSports, KU Leuven
+- [Multi-Person tracking by multi-scale detection in Basketball scenarios](https://arxiv.org/pdf/1907.04637v1.pdf). July 2019. Universitat Pompeu Fabra, FC Barcelona
+- [VIDEO ACTION RECOGNITION VIA NEURAL ARCHITECTURE SEARCHING](https://arxiv.org/pdf/1907.04632v1.pdf). July 2019. University of Oulu, Xi’an Jiaotong University
+- [Single-Camera Basketball Tracker through Pose and Semantic Feature Fusion](https://arxiv.org/pdf/1906.02042v2.pdf). July 2019. Universitat Pompeu Fabra, FC Barcelona
+- [Learning to Reason with Relational Video Representation for Question Answering](https://arxiv.org/pdf/1907.04553v1.pdf). July 2019. Deakin University
+- [Multi-layer Attention Mechanism for Speech Keyword Recognition](https://arxiv.org/pdf/1907.04536v1.pdf). July 2019. Sichuan University, Rutgers University
+- [The Role of Cooperation in Responsible AI Development](https://arxiv.org/pdf/1907.04534v1.pdf). July 2019. OpenAI
+- [Software Engineering for Machine Learning: A Case Study](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/amershi-icse-2019_Software_Engineering_for_Machine_Learning.pdf). March 2019. Microsoft
+- [SATNet: Bridging deep learning and logical reasoning using a differentiable satisfiability solver](https://arxiv.org/pdf/1905.12149v1.pdf). May 2019. ICML 2019. CMU, USC, Bosch Center for Artificial Intelligence
 - [Generative Adversarial Networks: A Survey and Taxonomy](https://arxiv.org/pdf/1906.01529v2.pdf). June 2019. Dublin City University, Intel. 
 - [Stand-Alone Self-Attention in Vision Models](https://arxiv.org/pdf/1906.05909v1.pdf). June 2019. Google Brain.
 - [Stacked Capsule Autoencoders](https://arxiv.org/pdf/1906.06818v1.pdf). June 2019. Oxford, Google Brain, DeepMind. Geoffrey Hinton.
@@ -529,8 +528,7 @@ for Artificial Intelligence
 - [A Generative Map for Image-based Camera Localization](https://arxiv.org/pdf/1902.11124v3.pdf). Apr 2019. fortiss GmbH, TUM
 - [Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression](https://arxiv.org/pdf/1902.09630v2.pdf). Apr 2019. Stanford, The University of Adelaide, Aibee Inc
 - [MINI-BATCH SERIALIZATION: CNN TRAINING WITH INTER-LAYER DATA REUSE](https://arxiv.org/pdf/1810.00307v3.pdf). Apr 2019. SysML 2019. UT Austin, UMich, Duke.
-- [LeanResNet: A Low-cost yet Effective Convolutional Residual Networks](https://arxiv.org/pdf/1904.06952v1.pdf). Apr 2019. Ben Gurion University, Emory University, University of British
-Columbia
+- [LeanResNet: A Low-cost yet Effective Convolutional Residual Networks](https://arxiv.org/pdf/1904.06952v1.pdf). Apr 2019. Ben Gurion University, Emory University, University of British Columbia
 - [Human-Guided Learning of Column Networks: Augmenting Deep Learning with Advice](https://arxiv.org/pdf/1904.06950v1.pdf). Apr 2019. UT Dallas
 - [Exploiting Event Log Data-Attributes in RNN Based Prediction](https://arxiv.org/pdf/1904.06895v1.pdf). Apr 2019. Aalto University, University of Helsinki, QPR Software, HIIT Helsinki Institute for Information Technology
 - [DuBox: No-Prior Box Objection Detection via Residual Dual Scale Detectors](https://arxiv.org/pdf/1904.06883v1.pdf). Apr 2019. Baidu.
@@ -566,6 +564,7 @@ Columbia
 - [Encoding Database Schemas with Relation-Aware Self-Attention for Text-to-SQL Parsers](https://arxiv.org/pdf/1906.11790v1.pdf). June 2019. UC Berkeley
 - [Stolen Memories: Leveraging Model Memorization for Calibrated White-Box Membership Inference](https://arxiv.org/pdf/1906.11798v1.pdf). June 2019. CMU
 - [Fast Training of Sparse Graph Neural Networks on Dense Hardware](https://arxiv.org/pdf/1906.11786v1.pdf). June 2019. University of Cambridge, MPI Tübingen, Google Brain, DeepMind
+
 
 
 - [VideoBERT: A Joint Model for Video and Language Representation Learning](https://arxiv.org/pdf/1904.01766.pdf). Apr 2019. Google
@@ -635,7 +634,8 @@ Columbia
 - [Generating Long Sequences with Sparse Transformers](https://arxiv.org/pdf/1904.10509v1.pdf). Apr 2019. OpenAI
 - [Billion-scale semi-supervised learning for image classification](https://arxiv.org/pdf/1905.00546v1.pdf). May 2019. Facebook AI. "one billion unlabelled images, our learned vanilla ResNet-50 achieves 81.2% top-1 accuracy on Imagenet benchmark."
 - [Single Image Portrait Relighting](https://arxiv.org/pdf/1905.00824v1.pdf). May 2019. UC San Diego, Google
-- 
+
+
 
 
 - [Do Transformer Attention Heads Provide Transparency in Abstractive Summarization?](https://arxiv.org/pdf/1907.00570v1.pdf). July 2019. University of Amsterdam, De Persgroep
@@ -670,6 +670,8 @@ Columbia
 - [Improved local search for graph edit distance](https://arxiv.org/pdf/1907.02929v1.pdf). July 2019. Normandie Univ, Free University of Bozen-Bolzano
 - [Visus: An Interactive System for Automatic Machine Learning Model Building and Curation](https://arxiv.org/pdf/1907.02889v1.pdf). July 2019. NYU
 - [Multi-lingual Intent Detection and Slot Filling in a Joint BERT-based Model](https://arxiv.org/pdf/1907.02884v1.pdf). July 2019. Almawave
+
+
 
 - [SCOPS: Self-Supervised Co-Part Segmentation](https://arxiv.org/pdf/1905.01298v1.pdf). May 2019. UC Merced, NVIDIA
 - [Seamless Scene Segmentation](https://arxiv.org/pdf/1905.01220v1.pdf). May 2019. Mapilllary. State-of-the-art results on Cityscapes, Indian Driving Dataset and Mapillary Vistas
@@ -711,7 +713,6 @@ Columbia
 - [Generative Exploration and Exploitation](https://arxiv.org/pdf/1904.09605v1.pdf). Apr 2019. Peking University
 - [LATTE: Accelerating LiDAR Point Cloud Annotation via Sensor Fusion, One-Click Annotation, and Tracking](https://arxiv.org/pdf/1904.09085v1.pdf). Apr 2019. UC Berkeley
 - [Beto, Bentz, Becas: The Surprising Cross-Lingual Effectiveness of BERT](https://arxiv.org/pdf/1904.09077v1.pdf). Apr 2019. Johns Hopkins University
-
 - [Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches](https://arxiv.org/pdf/1907.06902.pdf). July 2019. Politecnico di Milano, University of Klagenfurt
 - [Self Organizing Supply Chains for Micro-Prediction: Present and Future uses of the ROAR Protocol](https://arxiv.org/pdf/1907.07514v1.pdf). ICML 2019. JP Morgan Chase
 - [Bag of Tricks for Image Classification with Convolutional Neural Networks](https://arxiv.org/pdf/1812.01187v2.pdf). Dec 2018. AWS. Mu [HighPri]
@@ -774,11 +775,84 @@ Columbia
 - [Green AI](https://arxiv.org/pdf/1907.10597v2.pdf). July 2019. AI^2, CMU, UWashington. Huge computational costs has environmental impact. Green AI suggest adding efficiency as an evaluation criterion and reporting price of development and running models. [HighPri]
 - [An Effective Approach to Unsupervised Machine Translation](https://arxiv.org/pdf/1902.01313v2.pdf). July 2019. University of the Basque Country
 - [Benchmarking TPU, GPU, and CPU Platforms for Deep Learning](https://arxiv.org/pdf/1907.10701v1.pdf). July 2019. Harvard. [HighPri]
--  
-- 
-- 
-- 
-- 
+
+
+
+- [Self-Supervised Vision-Based Detection of the Active Speaker as Support for Socially-Aware Language Acquisition](https://arxiv.org/pdf/1711.08992v2.pdf). July 2019. USC, KTH Royal Institute of Technology NTNU Norwegian University of Science and Technology
+- [Querying Knowledge via Multi-Hop English Questions](https://arxiv.org/pdf/1907.08176v1.pdf). July 2019. Stony Brook University.
+- [OCC: A Smart Reply System for Eicient In-App Communications](https://arxiv.org/pdf/1907.08167v1.pdf). July 2019. Uber.  OCC=one-click-chat
+- [Audits as Evidence: Experiments, Ensembles, and Enforcement](https://arxiv.org/pdf/1907.06622v2.pdf). July 2019. UC Berkeley, NBER. "We develop tools for utilizing correspondence experiments to detect illegal discrimination by individual employers"
+- [A SURVEY OF DATA QUALITY MEASUREMENT AND MONITORING TOOLS](https://arxiv.org/pdf/1907.08138v1.pdf). July 2019. Johannes Kepler University Linz, Software Competence Center Hagenberg. [HighPri]
+- [Self-supervised Training of Proposal-based Segmentation via Background Prediction](https://arxiv.org/pdf/1907.08051v1.pdf). July 2019. EPFL, Balgrist University Hospital, University of Zurich
+- [ACTNET: end-to-end learning of feature activations and multi-stream aggregation for effective instance image retrieva](https://arxiv.org/pdf/1907.05794v2.pdf). July 2019.  University of Surrey. 
+- [∂P: A Differentiable Programming System to Bridge Machine Learning and Scientific Computing](https://arxiv.org/pdf/1907.07587v2.pdf). July 2019. Julia Computing, MIT, Invenia Labs
+- [Automatic Grading of Individual Knee Osteoarthritis Features in Plain Radiographs using Deep Convolutional Neural Networks](https://arxiv.org/pdf/1907.08020v1.pdf). July 2019. University of Oulu, Oulu University Hospital
+- [ELG: An Event Logic Graph](https://arxiv.org/pdf/1907.08015v1.pdf). July 2019. Harbin Institute of Technology. [HighPri]
+- [Real-Time Driver State Monitoring Using a CNN Based Spatio-Temporal Approach](https://arxiv.org/pdf/1907.08009v1.pdf). July 2019. Intel, Technical University of Munich
+- [Deep Neural Models for Medical Concept Normalization in User-Generated Texts](https://arxiv.org/pdf/1907.07972v1.pdf). July 2019. Kazan Federal University, Samsung. "medical concept normalization problem, i.e., the problem of mapping a health-related entity mention in a free-form text to a concept in a controlled vocabulary"
+- [FOSNet: An End-to-End Trainable Deep Neural Network for Scene Recognition](https://arxiv.org/pdf/1907.07570v2.pdf). July 2019.  Yonsei University (Seoul). "Scene recognition is an image recognition problem aimed at predicting the category of the place at which the image is taken"
+- [A Computer Vision Application for Assessing Facial Acne Severity from Selfie Images](https://arxiv.org/pdf/1907.07901v1.pdf). July 2019. Microsoft Research.
+- [Asynch-SGBDT: Train a Stochastic Gradient Boosting Decision Tree in an Asynchronous Parallel Manner](https://arxiv.org/pdf/1804.04659v4.pdf). July 2019. CAS, University of Chinese Academy of Sciences, WiseUranium corp
+- [Visual-based Autonomous Driving Deployment from a Stochastic and Uncertainty-aware Perspective](https://arxiv.org/pdf/1903.00821v2.pdf). July 2019.  Hong Kong University of Science and Technology
+- [Understanding Video Content: Efficient Hero Detection and Recognition for the Game "Honor of Kings"](https://arxiv.org/pdf/1907.07854v1.pdf). July 2019. Tencent 
+- [An Adaptive Approach for Anomaly Detector Selection and Fine-Tuning in Time Series](https://arxiv.org/pdf/1907.07843v1.pdf). July 2019. Alibaba. [HighPri]
+- [Evaluation Uncertainty in Data-Driven Self-Driving Testing](https://arxiv.org/pdf/1904.09306v2.pdf). July 2019. UMich, CMU, Columbia
+- [OmniNet: A unified architecture for multi-modal multi-task learning](https://arxiv.org/pdf/1907.07804v1.pdf). July 2019. IBM, University of Amsterdam
+- [Learning Latent Events from Network Message Logs](https://arxiv.org/pdf/1804.03346v3.pdf). July 2019. AT&T Labs
+- [Learning Privately over Distributed Features: An ADMM Sharing Approach](https://arxiv.org/pdf/1907.07735v1.pdf). July 2019. University of Alberta, University of Kent
+- [Lane Detection and Classification using Cascaded CNNs](https://arxiv.org/pdf/1907.01294v2.pdf). July 2019. University of Bologna, University of Parma, Universidad Carlos III de Madrid
+- [Simple, Fast, Accurate Intent Classification and Slot Labeling for Goal-Oriented Dialogue Systems](https://arxiv.org/pdf/1903.08268v2.pdf). July 2019. Amazon AI, Stanford [HighPri]
+- [Gated Recurrent Neural Network Approach for Multilabel Emotion Detection in Microblogs](https://arxiv.org/pdf/1907.07653v1.pdf). July 2019. University of Moratuwa, La Trobe University Victoria
+- [NeurAll: Towards a Unified Visual Perception Model for Automated Driving](https://arxiv.org/pdf/1902.03589v2.pdf). July 2019. Valeo Vision Systems, UMich-Dearborn
+- [SoilingNet: Soiling Detection on Automotive Surround-View Cameras](https://arxiv.org/pdf/1905.01492v2.pdf). July 2019. Valeo. Determine if camera is soiled by environment (dirt, water, etc)
+- [RGB and LiDAR fusion based 3D Semantic Segmentation for Autonomous Driving](https://arxiv.org/pdf/1906.00208v2.pdf). July 2019. Valeo, Cairo University.
+- [Mitigating Uncertainty in Document Classification](https://arxiv.org/pdf/1907.07590v1.pdf). July 2019. Virginia Tech, NEC Laboratories America, Inc
+- [Processing Megapixel Images with Deep Attention-Sampling Models](https://arxiv.org/pdf/1905.03711v2.pdf). July 2019. Idiap Research Institute (Switzerland), EPFL
+- [AquaSight: Automatic Water Impurity Detection Utilizing Convolutional Neural Networks](https://arxiv.org/pdf/1907.07573v1.pdf). July 2019. TJHSST, UMaryland
+- [Self-Attentive Hawkes Processes](https://arxiv.org/pdf/1907.07561v1.pdf). July 2019. UCL. "Asynchronous events on the continuous time domain, e.g., social media actions and stock transactions, occur frequently in the world. The ability to recognize occurrence patterns of event sequences is crucial to predict which type of events will happen next and when. A de facto standard mathematical framework to do this is the Hawkes process.  In order to enhance expressivity of multivariate Hawkes processes, conventional statistical methods and deep recurrent networks have been employed to modify its intensity function. The former is highly interpretable and requires small size of training data but relies on correct model design while the latter has less dependency on prior knowledge and is more powerful in capturing complicated patterns. We leverage pros and cons of these models and propose a self-attentive Hawkes process (SAHP). The proposed method adapts self-attention to fit the intensity function of Hawkes processes. This design has two benefits: (1) compared with conventional statistical methods, the SAHP is more powerful to identify complicated dependency relationships between temporal events; (2) compared with deep recurrent networks, the self-attention mechanism is able to capture longer historical information, and is more interpretable because the learnt attention weight tensor shows contributions of each historical event ''
+- [Augmented Autoencoders: Implicit 3D Orientation Learning for 6D Object Detection](https://arxiv.org/pdf/1902.01275v2.pdf). July 2019. German Aerospace Center, Technical University of Munich.
+- [Natural Adversarial Examples](https://arxiv.org/pdf/1907.07174v2.pdf). July 2019. UC Berkeley, UWashington, UChicago. ImageNet-A dataset of naturally occuring adversarial examples (classification accuracy degrades on the examples across multiple models).
+- [Understanding Deep Learning Techniques for Image Segmentation](https://arxiv.org/pdf/1907.06119v1.pdf). July 2019. 
+- [Efficient Video Generation on Complex Datasets](https://arxiv.org/pdf/1907.06571v1.pdf). July 2019. DeepMind.
+- [Batch-Shaped Channel Gated Networks](https://arxiv.org/pdf/1907.06627v1.pdf). July 2019. Qualcomm AI Research
+- [Facebook FAIR’s WMT19 News Translation Task Submission](https://arxiv.org/pdf/1907.06616v1.pdf). July 2019. FAIR. Uses `FAIRSEQ`
+- [Agglomerative Attention](https://arxiv.org/pdf/1907.06607v1.pdf). July 2019. Low resource cost approach to attention for transformers
+- [Benchmarking Robustness in Object Detection: Autonomous Driving when Winter is Coming](https://arxiv.org/pdf/1907.07484v1.pdf). July 2019. University of Tubingen, International Max Planck Research School for Intelligent Systems
+- [On the “steerability” of generative adversarial networks](https://arxiv.org/pdf/1907.07171v1.pdf). July 2019. MIT CSAIL
+- [Truck Traffic Monitoring with Satellite Images](https://arxiv.org/pdf/1907.07660v1.pdf). July 2019. CMU, ETH Zürich
+- [Learning End-to-End Goal-Oriented Dialog with Maximal User Task Success and Minimal Human Agent Use](https://arxiv.org/pdf/1907.07638v1.pdf). July 2019. UMich, Intel, Amazon Alexa-AI Research
+- [Explaining Classifiers with Causal Concept Effect (CaCE)](https://arxiv.org/pdf/1907.07165v1.pdf). July 2019. Google Brain, Technion.
+- [Efficient Segmentation: Learning Downsampling Near Semantic Boundaries](https://arxiv.org/pdf/1907.07156v1.pdf). July 2019. University of Waterloo, Facebook, TAL Education (China)
+- [Real-time Hair Segmentation and Recoloring on Mobile GPUs](https://arxiv.org/pdf/1907.06740v1.pdf). July 2019. Google.
+- [IMPROVED HYBRID LAYERED IMAGE COMPRESSION USING DEEP LEARNING AND TRADITIONAL CODECS](https://arxiv.org/pdf/1907.06566v1.pdf). July 2019. Xi’an Jiaotong University, Simon Fraser University
+- [Measuring the Transferability of Adversarial Examples](https://arxiv.org/pdf/1907.06291v1.pdf). July 2019. University of Edinburgh
+- [A Divide-and-Conquer Approach Towards Understanding Deep Networks](https://arxiv.org/pdf/1907.06194v1.pdf). July 2019.  Friedrich-Alexander University Erlangen-Nurnberg, Erlangen Graduate School in Advanced Optical Technologies
+- [FoodX-251: A Dataset for Fine-grained Food Classification](https://arxiv.org/pdf/1907.06167v1.pdf). July 2019. SRI International, Google, Cornell Tech. 251 categories, 118k training images.
+- [Clustering Activity-Travel Behavior Time Series using Topological Data Analysis](https://arxiv.org/pdf/1907.07603v1.pdf). July 2019. University of Connecticut
+- [News Cover Assessment via Multi-task Learning](https://arxiv.org/pdf/1907.07581v2.pdf). July 2019. Tencent.
+- [A Survey on Explainable Artificial Intelligence (XAI): towards Medical XAI](https://arxiv.org/pdf/1907.07374v1.pdf). July 2019. Unknown affiliation
+- [Probing Neural Network Comprehension of Natural Language Arguments](https://arxiv.org/pdf/1907.07355v1.pdf). July 2019. National Cheng Kung University (Taiwan)
+- [Fake News Detection as Natural Language Inference](https://arxiv.org/pdf/1907.07347v1.pdf). July 2019. National Cheng Kung University (Taiwan)
+- [How much real data do we actually need: Analyzing object detection performance using synthetic and real data](https://arxiv.org/pdf/1907.07061v1.pdf). July 2019. ICML Workshop on AI for Autonomous Driving 2019. Sensor Cortek Inc., University of Ottawa, Valeo AI
+- [A Unified Deep Framework for Joint 3D Pose Estimation and Action Recognition from a Single RGB Camera](https://arxiv.org/pdf/1907.06968v1.pdf). July 2019. Cerema Research Center (France), Informatics Research Institute of Toulouse, Aparnix (Chile), Cortexica Vision Systems Ltd. (London), Vingroup Big Data Institute (Vietnam)
+- [Cascade RetinaNet: Maintaining Consistency for Single-Stage Object Detection](https://arxiv.org/pdf/1907.06881v1.pdf). July 2019. CAS, University of Chinese Academy of Sciences, CAS Center for Excellence in Brain Science and Intelligence Technology
+- [Separable Convolutional LSTMs for Faster Video Segmentation](https://arxiv.org/pdf/1907.06876v1.pdf). July 2019.  Ulm University.
+- [Multi-scale Graph-based Grading for Alzheimer’s Disease Prediction](https://arxiv.org/pdf/1907.06625v1.pdf). July 2019. Univ. Bordeaux, Universitat Politècnia de València
+- [The Many AI Challenges of Hearthstone](https://arxiv.org/pdf/1907.06562v1.pdf). July 2019. New Jersey Institute of Technology, NYU
+- [Asking Clarifying Questions in Open-Domain Information-Seeking Conversations](https://arxiv.org/pdf/1907.06554v1.pdf). July 2019. Università della Svizzera italiana (USI), UMass Amherst
+- [Federated Reinforcement Distillation with Proxy Experience Memory](https://arxiv.org/pdf/1907.06536v1.pdf). July 2019. Yonsei University, University of Oulu. RL learn from experience while preserving the privacy of actual experiences
+- [Sequence Level Semantics Aggregation for Video Object Detection](https://arxiv.org/pdf/1907.06390v1.pdf). July 2019. McGill University, TuSimple, University of Chinese Academy of Sciences, CASIA, CAS
+- [Exploring Deep Anomaly Detection Methods Based on Capsule Net](https://arxiv.org/pdf/1907.06312v1.pdf). July 2019. University of Ottawa, Queen's University, National Research Council Canada
+- [AUTOMATIC REPAIR AND TYPE BINDING OF UNDECLARED VARIABLES USING NEURAL NETWORKS](https://arxiv.org/pdf/1907.06205v1.pdf). July 2019. Iowa State University
+- [Towards Generation of Visual Attention Map for Source Code](https://arxiv.org/pdf/1907.06182v1.pdf). July 2019. Nara Institute of Science and Technology,
+- [ALFA: Agglomerative Late Fusion Algorithm for Object Detection](https://arxiv.org/pdf/1907.06067v1.pdf). July 2019. Kazan Federal University (Russia), Czech Technical University in Prague. "agglomerative clustering of object detector predictions" (runs on top of multiple detectors, e.g. SSD and Faster R-CNN)
+- [Bringing Giant Neural Networks Down to Earth with Unlabeled Data](https://arxiv.org/pdf/1907.06065v1.pdf). July 2019. Peking University, SenseTime, The University of Sydney
+- [M3D-RPN: Monocular 3D Region Proposal Network for Object Detection](https://arxiv.org/pdf/1907.06038v1.pdf). July 2019. Michigan State University. [HighPri]
+- [Motion Planning Networks: Bridging the Gap Between Learning-based and Classical Motion Planners](https://arxiv.org/pdf/1907.06013v1.pdf). July 2019. UC San Diego
+- [Sparse Networks from Scratch: Faster Training without Losing Performance](https://arxiv.org/pdf/1907.04840v1.pdf). July 2019. UWashington
+- [Adversarial Objects Against LiDAR-Based Autonomous Driving Systems](https://arxiv.org/pdf/1907.05418v1.pdf). July 2019. University of Michigan, Baidu, University of Illinois at Urbana-Champaign
+- [R-TRANSFORMER: RECURRENT NEURAL NETWORK ENHANCED TRANSFORMER](https://arxiv.org/pdf/1907.05572.pdf). July 2019. Michigan State University, TAL Education Group [HighPri]
+
 
 
 
