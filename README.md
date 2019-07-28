@@ -106,7 +106,7 @@
 - [Trading via Image Classification](https://arxiv.org/pdf/1907.10046.pdf). July 2019. JP Morgan AI Research [HighPri]. CV on timeseries graphs during trading to replicate how traders work.
 - [Real-time Event Detection on Social Data Streams](https://arxiv.org/pdf/1907.11229.pdf). July 2019. Twitter [HighPri]
 - [Efficient 8-Bit Quantization of Transformer Neural Machine Language Translation Model](https://arxiv.org/pdf/1906.00532.pdf). June 2019. ICML 2019. Intel.
-- [Cascade R-CNN: High Quality Object Detection and Instance Segmentation](https://arxiv.org/pdf/1906.09756.pdf). June 2019. UC San Diego. Improvements to Cascade R-CNN for segmentation + Implementations
+- [[Cascade Mask R-CNN] Cascade R-CNN: High Quality Object Detection and Instance Segmentation](https://arxiv.org/pdf/1906.09756.pdf). June 2019. UC San Diego. Improvements to Cascade R-CNN for segmentation + Implementations
 - [Double-Head RCNN: Rethinking Classification and Localization for Object Detection](https://arxiv.org/pdf/1904.06493.pdf). May 2019. Northeastern University, Microsoft
 - [Rethinking the Usage of Batch Normalization and Dropout in the Training of Deep Neural Networks](https://arxiv.org/pdf/1905.05928.pdf). May 2019. Tencent, CUHK, Nankai University
 - [Searching for MobileNetV3](https://arxiv.org/pdf/1905.02244.pdf). May 2019. Google, Google Brain. Quoc V Le. [HighPri]
