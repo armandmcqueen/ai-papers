@@ -47,7 +47,12 @@
 - [Yet Another Accelerated SGD: ResNet-50 Training on ImageNet in 74.7 seconds](https://arxiv.org/pdf/1903.12650.pdf). Mar 2019. Fujitsu
 - [Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/pdf/1812.08434.pdf). July 2019. Tsinghua University, Tencent
 - [Mesh R-CNN](https://arxiv.org/pdf/1906.02739v1.pdf). June 2019. FAIR.
-
+- [MMDetection: Open MMLab Detection Toolbox and Benchmark](https://arxiv.org/pdf/1906.07155.pdf). June 2019. Many affiliations.
+- [Software Engineering for Machine Learning: A Case Study](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/amershi-icse-2019_Software_Engineering_for_Machine_Learning.pdf). March 2019. Microsoft
+- [[Apple's Alchemist] DEMOCRATIZING PRODUCTION-SCALE DISTRIBUTED DEEP LEARNING](https://arxiv.org/pdf/1811.00143.pdf). October 2018. Apple. Apple's interna; distributed training service, Alchemist.
+- [[DeepBird] Twitter meets TensorFlow](https://blog.twitter.com/engineering/en_us/topics/insights/2018/twittertensorflow.html). June 2018. Twitter internal ML platform
+- [Railyard: how we rapidly train machine learning models with Kubernetes](https://stripe.com/blog/railyard-training-models). May 2019. Stripe's ML platform.
+- [Michelangelo](https://eng.uber.com/michelangelo/). September 2017. [2](https://eng.uber.com/scaling-michelangelo/). Nov 2018. Uber's ML platform.
 
 
 ## Unread Papers
@@ -56,7 +61,6 @@
 
 - [Benchmarking TPU, GPU, and CPU Platforms for Deep Learning](https://arxiv.org/pdf/1907.10701.pdf). July 2019. Harvard. [HighPri]
 - [Random Search and Reproducibility for Neural Architecture Search](https://arxiv.org/abs/1902.07638). Feb 2019. CMU
-- [MMDetection: Open MMLab Detection Toolbox and Benchmark](https://arxiv.org/pdf/1906.07155.pdf). June 2019. The Chinese University of Hong Kong, Zhejiang University, The University of
 - [A Study of BFLOAT16 for Deep Learning Training](https://arxiv.org/pdf/1905.12322.pdf). June 2019. Intel, Facebook
 - [Grid R-CNN Plus: Faster and Better](https://arxiv.org/pdf/1906.05688.pdf). June 2019. SenseTime, CUHK, Beihang University.
 - [GluonTS: Probabilistic Time Series Models in Python](https://arxiv.org/pdf/1906.05264.pdf). June 2019. AWS
@@ -419,7 +423,6 @@
 - [Learning to Reason with Relational Video Representation for Question Answering](https://arxiv.org/pdf/1907.04553.pdf). July 2019. Deakin University
 - [Multi-layer Attention Mechanism for Speech Keyword Recognition](https://arxiv.org/pdf/1907.04536.pdf). July 2019. Sichuan University, Rutgers University
 - [The Role of Cooperation in Responsible AI Development](https://arxiv.org/pdf/1907.04534.pdf). July 2019. OpenAI
-- [Software Engineering for Machine Learning: A Case Study](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/amershi-icse-2019_Software_Engineering_for_Machine_Learning.pdf). March 2019. Microsoft
 - [SATNet: Bridging deep learning and logical reasoning using a differentiable satisfiability solver](https://arxiv.org/pdf/1905.12149.pdf). May 2019. ICML 2019. CMU, USC, Bosch Center for Artificial Intelligence
 - [Generative Adversarial Networks: A Survey and Taxonomy](https://arxiv.org/pdf/1906.01529.pdf). June 2019. Dublin City University, Intel. 
 - [Stand-Alone Self-Attention in Vision Models](https://arxiv.org/pdf/1906.05909.pdf). June 2019. Google Brain.
