@@ -14,3 +14,8 @@
 - [Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model](https://arxiv.org/pdf/2201.11990). January 2022
 - [Scale Efficiently: Insights from Pre-training and Fine-tuning Transformers](https://arxiv.org/pdf/2109.10686). September 2021
 - [[Chinchilla] Training Compute-Optimal Large Language Models](https://arxiv.org/pdf/2203.15556). March 2022
+- [A data-driven approach for learning to control computers](https://arxiv.org/pdf/2202.08137). February 2022. DeepMind
+- [Data Distributional Properties Drive Emergent Few-Shot Learning in Transformers](https://arxiv.org/pdf/2205.05055). April 2022. Stanford, University College London, DeepMind
+- [CvT: Introducing Convolutions to Vision Transformers](https://arxiv.org/pdf/2103.15808). March 2021. Microsoft, Microsoft Cloud + AI, McGill University
+- [[DETR] End-to-End Object Detection with Transformers](https://arxiv.org/pdf/2005.12872). May 2020. Facebook
+- [[Vision Transformer] An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929). October 2020. Google Research, Google, Google Brain
