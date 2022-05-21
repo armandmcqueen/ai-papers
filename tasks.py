@@ -65,7 +65,7 @@ def extract_notes(line):
 
 
 def readme_lines():
-    with open('README.md', 'r') as f:
+    with open('README_old.md', 'r') as f:
         lines = []
         for line in f:
             lines.append(line.rstrip('\n'))
@@ -75,9 +75,9 @@ def readme_lines():
 def write_readme(c, new_lines):
     ts = datetime.datetime.now().isoformat()
     c.run("mkdir -p backup")
-    c.run(f'cp README.md backup/README-{ts}.md')
+    c.run(f'cp README_old.md backup/README-{ts}.md')
 
-    with open('README.md', 'w') as f:
+    with open('README_old.md', 'w') as f:
         for line in new_lines:
             f.write(f'{line}\n')
 
@@ -111,13 +111,13 @@ def identify_dupes(titles, verbose=False):
 
 @task
 def list_dupes(c):
-    """List duplicate paper entries in README.md"""
+    """List duplicate paper entries in README_old.md"""
     identify_dupes([entry[0] for entry in readme_paper_entries()], verbose=True)
 
 
 @task
 def dedupe(c):
-    """Remove duplicate paper entries from README.md"""
+    """Remove duplicate paper entries from README_old.md"""
     dupes = identify_dupes([entry[0] for entry in readme_paper_entries()])
 
     dedupe_map = {}
