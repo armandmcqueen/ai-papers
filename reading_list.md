@@ -13,3 +13,4 @@
 - [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/pdf/1907.11692). July 2019
 - [Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model](https://arxiv.org/pdf/2201.11990). January 2022
 - [Scale Efficiently: Insights from Pre-training and Fine-tuning Transformers](https://arxiv.org/pdf/2109.10686). September 2021
+- [[Chinchilla] Training Compute-Optimal Large Language Models](https://arxiv.org/pdf/2203.15556). March 2022
