@@ -96,6 +96,11 @@ def add_paper(paper, name=None, overwrite=False, notes=False):
     paper_info = get_paper_info_by_id(paper)[0]
     notes_page_path = get_notes_page_path(paper_info, name)
 
+    msg = f"Adding '{paper_info.title}' to {index_file.name}."
+    if notes:
+        msg += f" Adding notes page to {notes_page_path.name}."
+    print(msg)
+
     if not notes:
         # Just add the paper to the list of papers, don't generate a notes page
         add_reading_list_entry(paper_info, index_file)
