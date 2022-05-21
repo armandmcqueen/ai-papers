@@ -5,6 +5,7 @@ from utils.arxiv_query import get_paper_info_by_id
 from utils.markdown import MarkdownDoc, MarkdownTitle, MarkdownText, MarkdownLink
 from utils.markdown import MarkdownNewline as Newline
 from utils.arxiv_entry import ArxivEntry
+from utils.extract_affiliations import extract_affiliations
 
 
 def section_break(md):
@@ -38,6 +39,12 @@ def generate_notes_page(paper_info: ArxivEntry, page_path: Path):
     empty_line(md)
     md.add(MarkdownText(f"Authors: {', '.join(paper_info.authors)}"))
     empty_line(md)
+    affiliations = extract_affiliations(paper_info.paper_id, display_front_page=True)
+    affil_str = ", ".join(affiliations)
+    print("Affiliations:", affil_str)
+    md.add(MarkdownText(f". {affil_str}"))
+    empty_line(md)
+
     if paper_info.comment:
         md.add(MarkdownText(f"Arxiv Comments: {paper_info.comment}"))
         empty_line(md)
@@ -68,6 +75,10 @@ def add_reading_list_entry(paper_info: ArxivEntry, reading_list_file: Path):
     md.add(MarkdownText("- "))
     md.add(MarkdownLink(paper_info.title, paper_info.pdf_url))
     md.add(MarkdownText(f". {paper_info.published_as_month_and_year}"))
+    affiliations = extract_affiliations(paper_info.paper_id, display_front_page=True)
+    affil_str = ", ".join(affiliations)
+    print("Affiliations:", affil_str)
+    md.add(MarkdownText(f". {affil_str}"))
     with open(reading_list_file, "a") as f:
         md.write(f)
 
@@ -89,7 +100,8 @@ def get_notes_page_path(paper_info: ArxivEntry, name: str) -> Path:
 @click.option('--name', help='Short name for the paper, used for file names. E.g. megatron_lm_1')
 @click.option('--overwrite', is_flag=True, help='Overwrite existing notes page if already exists')
 @click.option('--notes', is_flag=True, help='Generate notes page and adds to README instead of just adding to reading list')
-def add_paper(paper, name=None, overwrite=False, notes=False):
+@click.option('--dryrun', is_flag=True, help="Only display affiliations and pdf front page (to test auto affiliation extraction)")
+def add_paper(paper, name=None, overwrite=False, notes=False, dryrun=False):
 
     index_file = "README.md" if notes else "reading_list.md"
     index_file = Path(index_file)
@@ -100,6 +112,11 @@ def add_paper(paper, name=None, overwrite=False, notes=False):
     if notes:
         msg += f" Adding notes page to {notes_page_path.name}."
     print(msg)
+
+    if dryrun:
+        affiliations = extract_affiliations(paper_info.paper_id, display_front_page=True)
+        print(f"Affiliations: {affiliations}")
+        return
 
     if not notes:
         # Just add the paper to the list of papers, don't generate a notes page

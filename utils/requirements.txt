@@ -1,3 +1,6 @@
 feedparser==6.0.8
 requests
 click
+PyPDF2
+pillow
+pymupdf
