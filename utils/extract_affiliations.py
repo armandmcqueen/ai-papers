@@ -90,8 +90,8 @@ def extract_affiliations(paper_id, display_front_page=True):
 
     with open(tmp_file_path, 'rb') as f:
         reader = PdfFileReader(f)
-        first_page = reader.getPage(0)
-        txt = first_page.extractText()
+        first_page = reader.pages[0]
+        txt = first_page.extract_text()
 
 
     matches = set()
