@@ -19,3 +19,4 @@
 - [CvT: Introducing Convolutions to Vision Transformers](https://arxiv.org/pdf/2103.15808). March 2021. Microsoft, Microsoft Cloud + AI, McGill University
 - [[DETR] End-to-End Object Detection with Transformers](https://arxiv.org/pdf/2005.12872). May 2020. Facebook
 - [[Vision Transformer] An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929). October 2020. Google Research, Google, Google Brain
+- [It's Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners](https://arxiv.org/pdf/2009.07118). September 2020. Sulzer, LMU Munich

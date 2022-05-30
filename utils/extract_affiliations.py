@@ -48,6 +48,8 @@ org_map = {
     "university college london": "University College London",
     "mcgill": "McGill University",
     "microsoft cloud + ai": "Microsoft Cloud + AI",
+    "lmu munich": "LMU Munich",
+    "sulzer": "Sulzer",
 }
 orgs = list(org_map.keys())
 exclude_from_no_whitespace_search = {"mit"}  # MIT is a common substring in text. Too many false positives
