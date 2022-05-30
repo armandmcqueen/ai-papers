@@ -20,3 +20,6 @@
 - [[DETR] End-to-End Object Detection with Transformers](https://arxiv.org/pdf/2005.12872). May 2020. Facebook
 - [[Vision Transformer] An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929). October 2020. Google Research, Google, Google Brain
 - [It's Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners](https://arxiv.org/pdf/2009.07118). September 2020. Sulzer, LMU Munich
+- [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://arxiv.org/pdf/2101.03961). January 2021. Google
+- [Pathways: Asynchronous Distributed Dataflow for ML](https://arxiv.org/pdf/2203.12533). March 2022. Google
+- [GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding](https://arxiv.org/pdf/2006.16668). June 2020. Google
