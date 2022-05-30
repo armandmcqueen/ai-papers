@@ -23,3 +23,10 @@
 - [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://arxiv.org/pdf/2101.03961). January 2021. Google
 - [Pathways: Asynchronous Distributed Dataflow for ML](https://arxiv.org/pdf/2203.12533). March 2022. Google
 - [GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding](https://arxiv.org/pdf/2006.16668). June 2020. Google
+- [Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/pdf/2204.14198). April 2022. DeepMind
+- [Carbon Emissions and Large Neural Network Training](https://arxiv.org/pdf/2104.10350). April 2021. Google, Berkeley.
+- [[Meena] Towards a Human-like Open-Domain Chatbot](https://arxiv.org/pdf/2001.09977). January 2020. Google, Google Brain, Google Research
+- [The Evolved Transformer](https://arxiv.org/pdf/1901.11117). January 2019. Google, Google Research, Google Brain
+- [Decision Transformer: Reinforcement Learning via Sequence Modeling](https://arxiv.org/pdf/2106.01345). June 2021. Google, Facebook, UC Berkeley, Google Brain
+- [Perceiver IO: A General Architecture for Structured Inputs & Outputs](https://arxiv.org/pdf/2107.14795). July 2021. DeepMind
+- [An Evolutionary Approach to Dynamic Introduction of Tasks in Large-scale Multitask Learning Systems](https://arxiv.org/pdf/2205.12755). May 2022. Google Research, Google
