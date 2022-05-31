@@ -30,3 +30,4 @@
 - [Decision Transformer: Reinforcement Learning via Sequence Modeling](https://arxiv.org/pdf/2106.01345). June 2021. Google, Facebook, UC Berkeley, Google Brain
 - [Perceiver IO: A General Architecture for Structured Inputs & Outputs](https://arxiv.org/pdf/2107.14795). July 2021. DeepMind
 - [An Evolutionary Approach to Dynamic Introduction of Tasks in Large-scale Multitask Learning Systems](https://arxiv.org/pdf/2205.12755). May 2022. Google Research, Google
+- [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/pdf/2205.14135). May 2022. University at Buffalo, Stanford
