@@ -31,3 +31,18 @@
 - [Perceiver IO: A General Architecture for Structured Inputs & Outputs](https://arxiv.org/pdf/2107.14795). July 2021. DeepMind
 - [An Evolutionary Approach to Dynamic Introduction of Tasks in Large-scale Multitask Learning Systems](https://arxiv.org/pdf/2205.12755). May 2022. Google Research, Google
 - [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/pdf/2205.14135). May 2022. University at Buffalo, Stanford
+- [Linformer: Self-Attention with Linear Complexity](https://arxiv.org/pdf/2006.04768). June 2020. Facebook
+- [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/pdf/2002.05709). February 2020. Google Brain, Google Research, Google
+- [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/pdf/1911.05722). November 2019. Facebook
+- [Deep Double Descent: Where Bigger Models and More Data Hurt](https://arxiv.org/pdf/1912.02292). December 2019. OpenAI, Harvard
+- [Extracting Training Data from Large Language Models](https://arxiv.org/pdf/2012.07805). December 2020. Northeastern, Harvard, UC Berkeley, Google, Apple, OpenAI, Stanford
+- [An Empirical Model of Large-Batch Training](https://arxiv.org/pdf/1812.06162). December 2018. OpenAI, Johns Hopkins. [Blog](https://openai.com/blog/science-of-ai/)
+- [LayoutLM: Pre-training of Text and Layout for Document Image Understanding](https://arxiv.org/pdf/1912.13318). December 2019. 
+- [Understanding the Capabilities, Limitations, and Societal Impact of Large Language Models](https://arxiv.org/pdf/2102.02503). February 2021. Stanford, OpenAI
+- [Pretrained Transformers as Universal Computation Engines](https://arxiv.org/pdf/2103.05247). March 2021. Facebook, Google Brain, UC Berkeley, Google
+- [PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/pdf/2204.02311). April 2022. Google, Google Research
+- [GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding](https://arxiv.org/pdf/2006.16668). June 2020. Google
+- [Pathways: Asynchronous Distributed Dataflow for ML](https://arxiv.org/pdf/2203.12533). March 2022. Google
+- [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://arxiv.org/pdf/2101.03961). January 2021. Google
+- [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/pdf/1910.10683). October 2019. Google
+- [An Evolutionary Approach to Dynamic Introduction of Tasks in Large-scale Multitask Learning Systems](https://arxiv.org/pdf/2205.12755). May 2022. Google, Google Research
